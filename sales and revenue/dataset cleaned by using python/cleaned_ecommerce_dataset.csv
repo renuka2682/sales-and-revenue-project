@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Customer_ID,Customer_Age,Customer_Gender,City,State,Product_Category,Product_Sub_Category,Payment_Mode,Sales,Cost,Discount_%,Quantity,Shipping_Days,Delivery_Status,Final_Sales,Profit,Profit_Margin_%,Year,Month,Age_Group
+1001,12-06-2024,C001,23,Male,Chennai,Tamil Nadu,Electronics,Laptop,COD,10144,8327,26,3,6,Delivered,7506.56,-820.44,-10.92964021,2024,June,18-25
+1002,09-01-2024,C002,20,Male,Delhi,Delhi,Electronics,Smartwatch,COD,40453,24593,11,3,7,Delivered,36003.17,11410.17,31.692126,2024,January,18-25
+1003,26-02-2024,C003,34,Female,Hyderabad,Telangana,Electronics,Headphones,UPI,28696,20146,9,1,8,Delivered,26113.36,5967.36,22.85175098,2024,February,26-35
+1004,07-04-2024,C004,23,Female,Pune,Maharashtra,Home,Decor,COD,53895,33039,19,3,2,Returned,43654.95,10615.95,24.31786086,2024,April,18-25
+1005,21-01-2024,C005,37,Female,Lucknow,Uttar Pradesh,Fashion,Kurti,UPI,13601,11035,6,3,3,Delivered,12784.94,1749.94,13.68751046,2024,January,36-45
+1006,29-02-2024,C006,47,Male,Kolkata,West Bengal,Fashion,Jeans,Debit Card,42660,36270,10,2,4,Delivered,38394,2124,5.532114393,2024,February,46-60
+1007,28-06-2024,C007,49,Male,Lucknow,Uttar Pradesh,Home,Kitchen,Credit Card,36005,29478,10,2,5,Delivered,32404.5,2926.5,9.031153081,2024,June,46-60
+1008,24-06-2024,C008,30,Male,Delhi,Delhi,Electronics,Tablet,COD,27290,18565,11,3,7,Delivered,24288.1,5723.1,23.56339113,2024,June,26-35
+1009,11-04-2024,C009,48,Female,Bangalore,Karnataka,Fashion,Saree,COD,17162,14132,22,2,7,Delivered,13386.36,-745.64,-5.570147523,2024,April,46-60
+1010,02-04-2024,C010,27,Male,Jaipur,Rajasthan,Fashion,Shirts,COD,50530,31032,8,1,7,Delivered,46487.6,15455.6,33.24671525,2024,April,26-35
+1011,01-06-2024,C011,22,Female,Kolkata,West Bengal,Home,Appliances,Debit Card,35676,24096,22,1,7,Delivered,27827.28,3731.28,13.4087126,2024,June,18-25
+1012,13-06-2024,C012,30,Male,Chennai,Tamil Nadu,Fashion,Saree,Credit Card,30735,18470,28,3,4,Returned,22129.2,3659.2,16.5356181,2024,June,26-35
+1013,09-05-2024,C013,49,Male,Chennai,Tamil Nadu,Home,Kitchen,UPI,11016,7845,10,3,8,Delayed,9914.4,2069.4,20.87267006,2024,May,46-60
+1014,02-06-2024,C014,30,Female,Hyderabad,Telangana,Electronics,Tablet,UPI,58587,52470,30,2,3,Delivered,41010.9,-11459.1,-27.94159601,2024,June,26-35
+1015,22-01-2024,C015,43,Female,Mumbai,Maharashtra,Home,Kitchen,COD,9414,7511,22,1,4,Delivered,7342.92,-168.08,-2.289007643,2024,January,36-45
+1016,24-02-2024,C016,49,Male,Chennai,Tamil Nadu,Fashion,T-Shirt,UPI,43590,31037,21,2,2,Delivered,34436.1,3399.1,9.870746107,2024,February,46-60
+1017,27-03-2024,C017,20,Male,Lucknow,Uttar Pradesh,Electronics,Mobile,Debit Card,5652,4591,6,1,2,Delayed,5312.88,721.88,13.58735752,2024,March,18-25
+1018,19-01-2024,C018,36,Male,Chennai,Tamil Nadu,Home,Appliances,COD,15040,11457,28,3,6,Delivered,10828.8,-628.2,-5.801196809,2024,January,36-45
+1019,14-04-2024,C019,26,Male,Mumbai,Maharashtra,Home,Appliances,UPI,24219,17608,19,3,2,Delivered,19617.39,2009.39,10.24290183,2024,April,26-35
+1020,16-01-2024,C020,32,Female,Mumbai,Maharashtra,Electronics,Laptop,Credit Card,13465,10245,9,2,3,Delivered,12253.15,2008.15,16.38884695,2024,January,26-35
+1021,20-01-2024,C021,34,Male,Hyderabad,Telangana,Home,Furniture,Credit Card,7112,6243,12,1,5,Delivered,6258.56,15.56,0.248619491,2024,January,26-35
+1022,12-04-2024,C022,48,Male,Bangalore,Karnataka,Fashion,Shirts,COD,26586,18066,30,2,4,Delivered,18610.2,544.2,2.924202856,2024,April,46-60
+1023,09-02-2024,C023,26,Female,Delhi,Delhi,Electronics,Smartwatch,COD,49217,37535,28,2,2,Delivered,35436.24,-2098.76,-5.92263739,2024,February,26-35
+1024,08-05-2024,C024,49,Male,Hyderabad,Telangana,Home,Furniture,COD,56793,37241,24,1,7,Delayed,43162.68,5921.68,13.71944467,2024,May,46-60
+1025,31-01-2024,C025,50,Male,Lucknow,Uttar Pradesh,Home,Furniture,Debit Card,41591,25977,26,3,6,Delivered,30777.34,4800.34,15.59699441,2024,January,46-60
+1026,22-02-2024,C026,41,Female,Delhi,Delhi,Fashion,Jeans,UPI,9577,7676,14,2,4,Delayed,8236.22,560.22,6.8019067,2024,February,36-45
+1027,03-01-2024,C027,34,Male,Mumbai,Maharashtra,Home,Kitchen,Credit Card,34153,23209,16,1,3,Delivered,28688.52,5479.52,19.1000442,2024,January,26-35
+1028,22-04-2024,C028,46,Female,Lucknow,Uttar Pradesh,Home,Furniture,Credit Card,44769,37835,14,3,2,Delayed,38501.34,666.34,1.73069301,2024,April,46-60
+1029,08-03-2024,C029,23,Male,Jaipur,Rajasthan,Electronics,Tablet,Debit Card,19465,15210,27,2,3,Delivered,14209.45,-1000.55,-7.041440731,2024,March,18-25
+1030,09-05-2024,C030,35,Female,Hyderabad,Telangana,Electronics,Headphones,Debit Card,28759,24410,6,1,4,Delivered,27033.46,2623.46,9.704492137,2024,May,26-35
+1031,11-02-2024,C031,43,Female,Jaipur,Rajasthan,Home,Appliances,Debit Card,37759,22764,7,3,3,Delivered,35115.87,12351.87,35.17460909,2024,February,36-45
+1032,29-05-2024,C032,37,Male,Kolkata,West Bengal,Electronics,Mobile,Credit Card,21202,15040,30,1,4,Delivered,14841.4,-198.6,-1.338148692,2024,May,36-45
+1033,19-06-2024,C033,23,Female,Jaipur,Rajasthan,Fashion,Kurti,COD,50117,32393,12,1,8,Delayed,44102.96,11709.96,26.55141514,2024,June,18-25
+1034,07-01-2024,C034,25,Female,Kolkata,West Bengal,Home,Kitchen,COD,18485,11973,27,1,5,Delayed,13494.05,1521.05,11.27200507,2024,January,18-25
+1035,26-02-2024,C035,26,Female,Pune,Maharashtra,Fashion,Saree,UPI,15609,9476,11,2,4,Delivered,13892.01,4416.01,31.78812857,2024,February,26-35
+1036,12-03-2024,C036,31,Female,Jaipur,Rajasthan,Fashion,Shirts,Debit Card,8559,7387,13,1,6,Returned,7446.33,59.33,0.796768341,2024,March,26-35
+1037,10-01-2024,C037,23,Female,Pune,Maharashtra,Home,Decor,Credit Card,29599,23142,21,1,5,Delayed,23383.21,241.21,1.031552127,2024,January,18-25
+1038,06-03-2024,C038,21,Female,Hyderabad,Telangana,Home,Kitchen,UPI,24869,18139,26,2,6,Delivered,18403.06,264.06,1.434870071,2024,March,18-25
+1039,17-03-2024,C039,36,Female,Kolkata,West Bengal,Fashion,Jeans,COD,46692,32156,9,1,5,Delivered,42489.72,10333.72,24.320518,2024,March,36-45
+1040,22-06-2024,C040,43,Male,Lucknow,Uttar Pradesh,Home,Decor,Debit Card,27612,21106,5,2,4,Delivered,26231.4,5125.4,19.53917824,2024,June,36-45
+1041,29-04-2024,C041,34,Female,Delhi,Delhi,Home,Appliances,Debit Card,53018,46144,30,3,3,Delivered,37112.6,-9031.4,-24.33513146,2024,April,26-35
+1042,11-05-2024,C042,41,Female,Mumbai,Maharashtra,Electronics,Headphones,COD,21343,14244,11,1,2,Delivered,18995.27,4751.27,25.01291111,2024,May,36-45
+1043,05-06-2024,C043,47,Male,Ahmedabad,Gujarat,Fashion,T-Shirt,Credit Card,38727,25495,27,2,5,Delivered,28270.71,2775.71,9.818324336,2024,June,46-60
+1044,16-06-2024,C044,42,Male,Mumbai,Maharashtra,Fashion,Saree,Credit Card,12526,10537,27,3,5,Delivered,9143.98,-1393.02,-15.23428529,2024,June,36-45
+1045,01-02-2024,C045,34,Male,Ahmedabad,Gujarat,Home,Decor,COD,50496,43801,24,3,6,Delivered,38376.96,-5424.04,-14.13358432,2024,February,26-35
+1046,10-02-2024,C046,43,Female,Ahmedabad,Gujarat,Fashion,Saree,Debit Card,56041,44345,29,3,5,Delivered,39789.11,-4555.89,-11.45009275,2024,February,36-45
+1047,22-04-2024,C047,22,Female,Delhi,Delhi,Fashion,Shoes,Credit Card,21952,19052,7,1,3,Delivered,20415.36,1363.36,6.678109032,2024,April,18-25
+1048,29-06-2024,C048,26,Male,Kolkata,West Bengal,Fashion,Shoes,UPI,36560,27046,6,1,8,Delivered,34366.4,7320.4,21.30103822,2024,June,26-35
+1049,27-05-2024,C049,32,Female,Hyderabad,Telangana,Fashion,Shoes,Credit Card,50379,36121,18,3,7,Delivered,41310.78,5189.78,12.56277417,2024,May,26-35
+1050,04-05-2024,C050,27,Female,Kolkata,West Bengal,Fashion,Shirts,COD,26484,18561,26,2,7,Delivered,19598.16,1037.16,5.292129465,2024,May,26-35
+1051,02-02-2024,C051,39,Male,Kolkata,West Bengal,Home,Furniture,COD,6501,5154,9,2,3,Delivered,5915.91,761.91,12.87899917,2024,February,36-45
+1052,24-03-2024,C052,26,Female,Pune,Maharashtra,Fashion,Jeans,UPI,19235,15880,18,2,8,Delivered,15772.7,-107.3,-0.680289361,2024,March,26-35
+1053,18-05-2024,C053,21,Female,Delhi,Delhi,Home,Furniture,UPI,52198,46309,6,1,3,Delivered,49066.12,2757.12,5.61919304,2024,May,18-25
+1054,08-06-2024,C054,24,Male,Bangalore,Karnataka,Fashion,T-Shirt,Debit Card,8496,6535,11,2,7,Delivered,7561.44,1026.44,13.57466303,2024,June,18-25
+1055,12-02-2024,C055,39,Male,Bangalore,Karnataka,Fashion,Shirts,COD,38924,23654,14,3,7,Delayed,33474.64,9820.64,29.33755225,2024,February,36-45
+1056,11-04-2024,C056,50,Male,Mumbai,Maharashtra,Home,Kitchen,UPI,7678,6212,14,3,6,Delayed,6603.08,391.08,5.922690623,2024,April,46-60
+1057,29-03-2024,C057,37,Female,Pune,Maharashtra,Electronics,Smartwatch,Debit Card,43437,30508,18,2,2,Delivered,35618.34,5110.34,14.34749626,2024,March,36-45
+1058,11-06-2024,C058,48,Female,Bangalore,Karnataka,Fashion,Saree,COD,49090,37137,25,2,6,Delayed,36817.5,-319.5,-0.867793848,2024,June,46-60
+1059,29-04-2024,C059,33,Female,Pune,Maharashtra,Electronics,Mobile,COD,19279,16666,12,2,6,Delivered,16965.52,299.52,1.765463128,2024,April,26-35
+1060,27-03-2024,C060,20,Female,Pune,Maharashtra,Electronics,Camera,Debit Card,14901,10526,13,2,4,Delayed,12963.87,2437.87,18.80510989,2024,March,18-25
+1061,22-05-2024,C061,20,Male,Mumbai,Maharashtra,Electronics,Headphones,COD,27635,20631,29,1,7,Delivered,19620.85,-1010.15,-5.148349842,2024,May,18-25
+1062,24-04-2024,C062,45,Male,Mumbai,Maharashtra,Fashion,Saree,Debit Card,27502,22208,14,3,6,Delivered,23651.72,1443.72,6.10408038,2024,April,36-45
+1063,18-04-2024,C063,43,Female,Pune,Maharashtra,Home,Appliances,UPI,18754,12977,12,1,7,Delivered,16503.52,3526.52,21.36828992,2024,April,36-45
+1064,17-05-2024,C064,50,Male,Delhi,Delhi,Electronics,Headphones,UPI,32732,22354,23,3,6,Delivered,25203.64,2849.64,11.30646208,2024,May,46-60
+1065,19-02-2024,C065,29,Male,Pune,Maharashtra,Electronics,Tablet,Debit Card,1927,1565,9,2,2,Returned,1753.57,188.57,10.75349145,2024,February,26-35
+1066,27-06-2024,C066,50,Male,Ahmedabad,Gujarat,Electronics,Mobile,UPI,38621,26467,20,2,4,Delivered,30896.8,4429.8,14.33740711,2024,June,46-60
+1067,05-03-2024,C067,50,Female,Mumbai,Maharashtra,Electronics,Camera,Debit Card,33227,20674,25,3,2,Delivered,24920.25,4246.25,17.03935554,2024,March,46-60
+1068,22-01-2024,C068,27,Male,Jaipur,Rajasthan,Fashion,Kurti,COD,40067,33544,12,3,5,Delivered,35258.96,1714.96,4.863898425,2024,January,26-35
+1069,17-03-2024,C069,47,Female,Chennai,Tamil Nadu,Home,Furniture,UPI,40952,36366,8,1,7,Delivered,37675.84,1309.84,3.476604636,2024,March,46-60
+1070,10-02-2024,C070,27,Male,Jaipur,Rajasthan,Electronics,Laptop,Credit Card,1175,849,27,3,5,Delivered,857.75,8.75,1.020110755,2024,February,26-35
+1071,14-03-2024,C071,42,Female,Ahmedabad,Gujarat,Electronics,Headphones,Credit Card,16297,14295,30,3,6,Delivered,11407.9,-2887.1,-25.30790067,2024,March,36-45
+1072,18-04-2024,C072,23,Male,Bangalore,Karnataka,Fashion,Saree,Debit Card,5679,3509,30,2,6,Delivered,3975.3,466.3,11.72993233,2024,April,18-25
+1073,22-04-2024,C073,23,Female,Chennai,Tamil Nadu,Home,Appliances,COD,18841,14133,20,2,2,Delivered,15072.8,939.8,6.235072448,2024,April,18-25
+1074,23-03-2024,C074,39,Female,Hyderabad,Telangana,Electronics,Laptop,Debit Card,45190,38447,23,3,2,Returned,34796.3,-3650.7,-10.49163273,2024,March,36-45
+1075,27-05-2024,C075,21,Male,Ahmedabad,Gujarat,Home,Appliances,UPI,19229,12584,23,2,7,Delayed,14806.33,2222.33,15.00932371,2024,May,18-25
+1076,30-04-2024,C076,31,Female,Pune,Maharashtra,Fashion,T-Shirt,COD,7855,6734,15,2,7,Delivered,6676.75,-57.25,-0.857453102,2024,April,26-35
+1077,20-05-2024,C077,21,Female,Mumbai,Maharashtra,Fashion,Shoes,UPI,22186,14083,29,2,8,Delivered,15752.06,1669.06,10.59582048,2024,May,18-25
+1078,17-06-2024,C078,47,Female,Kolkata,West Bengal,Electronics,Laptop,UPI,34976,24781,29,2,7,Delivered,24832.96,51.96,0.209238045,2024,June,46-60
+1079,22-02-2024,C079,28,Male,Chennai,Tamil Nadu,Fashion,T-Shirt,Credit Card,32766,20853,25,3,8,Delivered,24574.5,3721.5,15.14374657,2024,February,26-35
+1080,20-03-2024,C080,37,Male,Jaipur,Rajasthan,Fashion,Shirts,Credit Card,15725,14115,8,2,2,Delivered,14467,352,2.433123661,2024,March,36-45
+1081,07-05-2024,C081,49,Female,Jaipur,Rajasthan,Home,Decor,COD,28229,24006,20,1,5,Delivered,22583.2,-1422.8,-6.300258599,2024,May,46-60
+1082,18-02-2024,C082,49,Male,Mumbai,Maharashtra,Fashion,Jeans,Debit Card,23274,20487,21,2,8,Delivered,18386.46,-2100.54,-11.42438512,2024,February,46-60
+1083,30-05-2024,C083,38,Female,Bangalore,Karnataka,Fashion,Kurti,Debit Card,32741,23034,22,3,5,Delivered,25537.98,2503.98,9.80492584,2024,May,36-45
+1084,18-02-2024,C084,42,Male,Lucknow,Uttar Pradesh,Fashion,Saree,COD,57099,47544,6,2,7,Delivered,53673.06,6129.06,11.41924832,2024,February,36-45
+1085,08-04-2024,C085,41,Male,Ahmedabad,Gujarat,Electronics,Laptop,UPI,33918,30173,15,1,8,Delayed,28830.3,-1342.7,-4.65725296,2024,April,36-45
+1086,14-05-2024,C086,49,Female,Hyderabad,Telangana,Home,Kitchen,Debit Card,27868,24002,9,1,5,Delivered,25359.88,1357.88,5.35444174,2024,May,46-60
+1087,27-03-2024,C087,39,Female,Mumbai,Maharashtra,Fashion,T-Shirt,COD,57317,43565,15,3,7,Delayed,48719.45,5154.45,10.57986082,2024,March,36-45
+1088,18-05-2024,C088,21,Male,Delhi,Delhi,Home,Decor,UPI,15908,13108,18,1,8,Delivered,13044.56,-63.44,-0.486333,2024,May,18-25
+1089,23-04-2024,C089,25,Female,Hyderabad,Telangana,Electronics,Tablet,COD,53176,32800,16,2,5,Delivered,44667.84,11867.84,26.56909311,2024,April,18-25
+1090,24-05-2024,C090,41,Male,Bangalore,Karnataka,Electronics,Mobile,Credit Card,40943,35262,24,3,3,Delivered,31116.68,-4145.32,-13.32185824,2024,May,36-45
+1091,29-02-2024,C091,34,Female,Ahmedabad,Gujarat,Fashion,T-Shirt,UPI,1615,1404,19,2,7,Delivered,1308.15,-95.85,-7.327141383,2024,February,26-35
+1092,23-04-2024,C092,50,Female,Lucknow,Uttar Pradesh,Fashion,T-Shirt,COD,28807,23249,19,2,3,Returned,23333.67,84.67,0.362866193,2024,April,46-60
+1093,28-01-2024,C093,27,Female,Lucknow,Uttar Pradesh,Fashion,Kurti,Debit Card,20390,18306,14,1,8,Delivered,17535.4,-770.6,-4.394539047,2024,January,26-35
+1094,03-01-2024,C094,38,Male,Lucknow,Uttar Pradesh,Home,Appliances,Credit Card,55580,48423,14,1,6,Delayed,47798.8,-624.2,-1.305890524,2024,January,36-45
+1095,11-06-2024,C095,26,Female,Bangalore,Karnataka,Home,Furniture,Credit Card,42121,33439,14,2,2,Delivered,36224.06,2785.06,7.688425869,2024,June,26-35
+1096,24-01-2024,C096,49,Female,Pune,Maharashtra,Home,Appliances,Debit Card,12510,8259,30,3,4,Delivered,8757,498,5.686879068,2024,January,46-60
+1097,12-02-2024,C097,28,Female,Chennai,Tamil Nadu,Home,Decor,COD,53706,34079,7,1,8,Returned,49946.58,15867.58,31.76910211,2024,February,26-35
+1098,22-05-2024,C098,31,Male,Kolkata,West Bengal,Electronics,Tablet,COD,36164,23039,16,3,7,Delivered,30377.76,7338.76,24.15833162,2024,May,26-35
+1099,12-06-2024,C099,50,Female,Mumbai,Maharashtra,Home,Kitchen,UPI,31898,19378,22,2,6,Delivered,24880.44,5502.44,22.11552529,2024,June,46-60
+1100,11-06-2024,C100,46,Female,Chennai,Tamil Nadu,Home,Appliances,Credit Card,8646,5550,6,2,5,Delivered,8127.24,2577.24,31.71113441,2024,June,46-60
+1101,17-05-2024,C101,24,Female,Ahmedabad,Gujarat,Fashion,T-Shirt,Credit Card,49702,40206,22,2,6,Delivered,38767.56,-1438.44,-3.710421806,2024,May,18-25
+1102,16-04-2024,C102,40,Male,Ahmedabad,Gujarat,Home,Appliances,Credit Card,19333,11789,16,1,5,Delivered,16239.72,4450.72,27.40638385,2024,April,36-45
+1103,02-04-2024,C103,23,Female,Jaipur,Rajasthan,Home,Decor,UPI,4968,3574,11,1,8,Delayed,4421.52,847.52,19.1680689,2024,April,18-25
+1104,18-06-2024,C104,26,Male,Hyderabad,Telangana,Fashion,Saree,Credit Card,9252,7735,11,1,8,Delivered,8234.28,499.28,6.063432383,2024,June,26-35
+1105,30-05-2024,C105,26,Male,Pune,Maharashtra,Electronics,Smartwatch,Credit Card,1185,809,9,1,6,Delivered,1078.35,269.35,24.97797561,2024,May,26-35
+1106,29-01-2024,C106,41,Male,Bangalore,Karnataka,Electronics,Tablet,UPI,52772,44145,23,2,2,Delivered,40634.44,-3510.56,-8.639370938,2024,January,36-45
+1107,02-02-2024,C107,43,Female,Jaipur,Rajasthan,Electronics,Headphones,COD,5165,3836,29,2,6,Delivered,3667.15,-168.85,-4.604393057,2024,February,36-45
+1108,08-05-2024,C108,27,Male,Jaipur,Rajasthan,Fashion,Jeans,UPI,43161,38379,6,2,8,Delivered,40571.34,2192.34,5.403666726,2024,May,26-35
+1109,05-05-2024,C109,42,Female,Mumbai,Maharashtra,Electronics,Tablet,Debit Card,40865,26337,9,2,6,Delivered,37187.15,10850.15,29.17714856,2024,May,36-45
+1110,07-04-2024,C110,39,Female,Ahmedabad,Gujarat,Home,Appliances,Credit Card,7499,6283,8,3,7,Delayed,6899.08,616.08,8.929886304,2024,April,36-45
+1111,20-04-2024,C111,34,Male,Kolkata,West Bengal,Fashion,Jeans,Debit Card,27131,19664,8,2,5,Delivered,24960.52,5296.52,21.21958998,2024,April,26-35
+1112,05-04-2024,C112,50,Male,Ahmedabad,Gujarat,Electronics,Mobile,Credit Card,55511,34728,18,1,7,Delivered,45519.02,10791.02,23.70661759,2024,April,46-60
+1113,22-05-2024,C113,21,Female,Mumbai,Maharashtra,Fashion,Shoes,UPI,58252,46578,29,2,8,Delayed,41358.92,-5219.08,-12.61899489,2024,May,18-25
+1114,14-03-2024,C114,39,Female,Pune,Maharashtra,Electronics,Smartwatch,Debit Card,34253,22737,26,2,3,Delayed,25347.22,2610.22,10.29785515,2024,March,36-45
+1115,22-05-2024,C115,31,Male,Chennai,Tamil Nadu,Home,Kitchen,UPI,53902,39280,22,3,6,Delivered,42043.56,2763.56,6.573087531,2024,May,26-35
+1116,04-06-2024,C116,49,Female,Hyderabad,Telangana,Electronics,Tablet,Credit Card,47052,38993,15,2,2,Delivered,39994.2,1001.2,2.503362988,2024,June,46-60
+1117,24-05-2024,C117,41,Female,Mumbai,Maharashtra,Electronics,Headphones,COD,42495,37886,7,3,6,Delivered,39520.35,1634.35,4.135464387,2024,May,36-45
+1118,26-04-2024,C118,30,Male,Pune,Maharashtra,Fashion,T-Shirt,Credit Card,22258,18542,23,3,2,Delayed,17138.66,-1403.34,-8.188154733,2024,April,26-35
+1119,10-02-2024,C119,44,Male,Mumbai,Maharashtra,Fashion,Jeans,UPI,44380,32273,24,2,5,Delivered,33728.8,1455.8,4.31619269,2024,February,36-45
+1120,29-03-2024,C120,33,Male,Chennai,Tamil Nadu,Home,Appliances,UPI,35533,28431,6,1,5,Returned,33401.02,4970.02,14.87984499,2024,March,26-35
+1121,02-01-2024,C121,26,Female,Delhi,Delhi,Electronics,Tablet,Credit Card,19969,13947,5,2,7,Delivered,18970.55,5023.55,26.48078205,2024,January,26-35
+1122,07-04-2024,C122,37,Male,Jaipur,Rajasthan,Home,Decor,UPI,5723,4115,28,1,5,Delivered,4120.56,5.56,0.134933116,2024,April,36-45
+1123,21-03-2024,C123,38,Female,Lucknow,Uttar Pradesh,Fashion,T-Shirt,Credit Card,42952,31153,8,2,2,Returned,39515.84,8362.84,21.1632601,2024,March,36-45
+1124,07-06-2024,C124,34,Female,Mumbai,Maharashtra,Fashion,Shirts,Debit Card,16945,12381,17,3,2,Delivered,14064.35,1683.35,11.96891431,2024,June,26-35
+1125,27-03-2024,C125,27,Female,Bangalore,Karnataka,Electronics,Smartwatch,Credit Card,42499,26953,21,1,8,Delivered,33574.21,6621.21,19.72111928,2024,March,26-35
+1126,01-03-2024,C126,23,Male,Chennai,Tamil Nadu,Electronics,Laptop,COD,40478,26143,29,3,2,Delivered,28739.38,2596.38,9.03422412,2024,March,18-25
+1127,28-04-2024,C127,44,Female,Lucknow,Uttar Pradesh,Home,Decor,COD,57639,51373,15,1,5,Delivered,48993.15,-2379.85,-4.857515796,2024,April,36-45
+1128,10-06-2024,C128,29,Female,Lucknow,Uttar Pradesh,Electronics,Tablet,Debit Card,34248,21311,19,2,2,Delivered,27740.88,6429.88,23.17835627,2024,June,26-35
+1129,20-01-2024,C129,40,Male,Lucknow,Uttar Pradesh,Home,Appliances,Credit Card,31324,24247,30,3,2,Delivered,21926.8,-2320.2,-10.58157141,2024,January,36-45
+1130,23-03-2024,C130,39,Female,Jaipur,Rajasthan,Electronics,Mobile,Credit Card,30525,19262,15,3,2,Delivered,25946.25,6684.25,25.76191164,2024,March,36-45
+1131,11-01-2024,C131,27,Female,Ahmedabad,Gujarat,Home,Kitchen,UPI,24848,17688,14,2,5,Delivered,21369.28,3681.28,17.22697255,2024,January,26-35
+1132,10-06-2024,C132,40,Female,Mumbai,Maharashtra,Fashion,Shirts,Credit Card,37566,30184,14,2,7,Delayed,32306.76,2122.76,6.570637229,2024,June,36-45
+1133,26-03-2024,C133,22,Male,Pune,Maharashtra,Fashion,T-Shirt,Debit Card,46775,37356,9,3,7,Delayed,42565.25,5209.25,12.23826948,2024,March,18-25
+1134,23-05-2024,C134,32,Female,Bangalore,Karnataka,Home,Furniture,Credit Card,43337,34718,21,2,2,Delivered,34236.23,-481.77,-1.407193491,2024,May,26-35
+1135,24-02-2024,C135,30,Female,Delhi,Delhi,Electronics,Laptop,UPI,11154,6950,30,1,6,Delivered,7807.8,857.8,10.98644945,2024,February,26-35
+1136,18-06-2024,C136,30,Male,Lucknow,Uttar Pradesh,Fashion,Saree,COD,11633,7610,27,3,8,Delayed,8492.09,882.09,10.38719561,2024,June,26-35
+1137,12-01-2024,C137,33,Female,Delhi,Delhi,Fashion,Kurti,Debit Card,19673,16244,30,2,3,Delivered,13771.1,-2472.9,-17.95717118,2024,January,26-35
+1138,30-04-2024,C138,48,Male,Pune,Maharashtra,Home,Appliances,Credit Card,31256,25968,29,2,6,Delivered,22191.76,-3776.24,-17.01640609,2024,April,46-60
+1139,21-02-2024,C139,45,Male,Chennai,Tamil Nadu,Electronics,Headphones,UPI,32495,28018,22,1,7,Delayed,25346.1,-2671.9,-10.54166124,2024,February,36-45
+1140,13-03-2024,C140,22,Male,Chennai,Tamil Nadu,Fashion,Kurti,Debit Card,10656,9050,7,1,8,Delivered,9910.08,860.08,8.67884013,2024,March,18-25
+1141,07-01-2024,C141,33,Male,Kolkata,West Bengal,Home,Decor,UPI,16451,11776,7,2,3,Delivered,15299.43,3523.43,23.02981222,2024,January,26-35
+1142,15-06-2024,C142,30,Male,Bangalore,Karnataka,Electronics,Tablet,UPI,55379,41076,9,3,5,Delivered,50394.89,9318.89,18.49173597,2024,June,26-35
+1143,21-01-2024,C143,20,Female,Delhi,Delhi,Electronics,Smartwatch,Debit Card,48660,38084,18,1,8,Delivered,39901.2,1817.2,4.554248995,2024,January,18-25
+1144,01-02-2024,C144,21,Male,Kolkata,West Bengal,Home,Appliances,Credit Card,5116,3239,20,3,6,Delivered,4092.8,853.8,20.86102424,2024,February,18-25
+1145,06-02-2024,C145,29,Female,Hyderabad,Telangana,Home,Decor,Debit Card,16765,12929,10,3,7,Delivered,15088.5,2159.5,14.31222454,2024,February,26-35
+1146,18-01-2024,C146,50,Male,Kolkata,West Bengal,Fashion,Shirts,UPI,42659,30546,16,2,7,Delivered,35833.56,5287.56,14.75588806,2024,January,46-60
+1147,29-03-2024,C147,27,Male,Lucknow,Uttar Pradesh,Home,Decor,COD,9743,5975,22,2,8,Delivered,7599.54,1624.54,21.37682018,2024,March,26-35
+1148,27-06-2024,C148,35,Male,Bangalore,Karnataka,Electronics,Headphones,Credit Card,51868,45803,6,2,3,Delivered,48755.92,2952.92,6.056536314,2024,June,26-35
+1149,11-01-2024,C149,30,Female,Jaipur,Rajasthan,Fashion,Kurti,UPI,32024,21648,29,3,3,Delivered,22737.04,1089.04,4.789717571,2024,January,26-35
+1150,16-06-2024,C150,30,Female,Mumbai,Maharashtra,Fashion,Jeans,COD,59293,42691,19,2,4,Returned,48027.33,5336.33,11.11102783,2024,June,26-35
+1151,26-06-2024,C151,35,Female,Jaipur,Rajasthan,Fashion,Shirts,Debit Card,48650,35385,18,3,8,Delivered,39893,4508,11.30022811,2024,June,26-35
+1152,23-03-2024,C152,23,Male,Pune,Maharashtra,Home,Decor,Debit Card,21086,15472,27,2,3,Delivered,15392.78,-79.22,-0.514656872,2024,March,18-25
+1153,24-04-2024,C153,21,Female,Lucknow,Uttar Pradesh,Fashion,Shoes,Debit Card,42908,38360,6,1,7,Delivered,40333.52,1973.52,4.893002148,2024,April,18-25
+1154,11-05-2024,C154,45,Male,Hyderabad,Telangana,Electronics,Smartwatch,Debit Card,45439,37914,6,1,2,Delivered,42712.66,4798.66,11.23474867,2024,May,36-45
+1155,02-04-2024,C155,32,Male,Lucknow,Uttar Pradesh,Electronics,Headphones,Credit Card,30486,26969,16,2,8,Delivered,25608.24,-1360.76,-5.313758384,2024,April,26-35
+1156,15-05-2024,C156,31,Female,Pune,Maharashtra,Home,Decor,COD,17358,15416,5,3,3,Delivered,16490.1,1074.1,6.513605133,2024,May,26-35
+1157,23-05-2024,C157,23,Female,Chennai,Tamil Nadu,Home,Appliances,Credit Card,15062,13539,14,3,5,Delivered,12953.32,-585.68,-4.521466311,2024,May,18-25
+1158,19-01-2024,C158,34,Male,Ahmedabad,Gujarat,Electronics,Headphones,Debit Card,56412,50543,26,2,7,Delivered,41744.88,-8798.12,-21.07592596,2024,January,26-35
+1159,17-03-2024,C159,47,Male,Bangalore,Karnataka,Fashion,Kurti,UPI,15695,9988,11,1,3,Delivered,13968.55,3980.55,28.49651539,2024,March,46-60
+1160,02-04-2024,C160,37,Female,Ahmedabad,Gujarat,Home,Kitchen,COD,41104,35566,7,2,5,Returned,38226.72,2660.72,6.960366989,2024,April,36-45
+1161,14-05-2024,C161,33,Female,Lucknow,Uttar Pradesh,Electronics,Laptop,Credit Card,21776,17261,19,2,7,Delivered,17638.56,377.56,2.14053755,2024,May,26-35
+1162,21-05-2024,C162,40,Male,Bangalore,Karnataka,Fashion,Kurti,Credit Card,57899,35701,8,3,3,Delivered,53267.08,17566.08,32.97736613,2024,May,36-45
+1163,23-03-2024,C163,49,Male,Pune,Maharashtra,Home,Decor,Debit Card,56439,35198,11,3,6,Delivered,50230.71,15032.71,29.92732932,2024,March,46-60
+1164,06-06-2024,C164,37,Male,Jaipur,Rajasthan,Home,Kitchen,Debit Card,39784,35108,9,1,7,Delivered,36203.44,1095.44,3.025789814,2024,June,36-45
+1165,24-05-2024,C165,21,Male,Mumbai,Maharashtra,Electronics,Headphones,UPI,51529,39833,25,1,8,Delivered,38646.75,-1186.25,-3.069468972,2024,May,18-25
+1166,07-05-2024,C166,48,Female,Chennai,Tamil Nadu,Fashion,Saree,UPI,53736,45256,17,2,5,Delivered,44600.88,-655.12,-1.468849942,2024,May,46-60
+1167,10-02-2024,C167,34,Female,Ahmedabad,Gujarat,Fashion,Saree,Debit Card,23294,18215,15,3,4,Delivered,19799.9,1584.9,8.004585882,2024,February,26-35
+1168,12-04-2024,C168,24,Female,Jaipur,Rajasthan,Home,Furniture,UPI,21913,14736,8,2,5,Delivered,20159.96,5423.96,26.90461687,2024,April,18-25
+1169,13-01-2024,C169,29,Female,Lucknow,Uttar Pradesh,Fashion,Saree,Credit Card,57708,50245,15,3,7,Delivered,49051.8,-1193.2,-2.432530509,2024,January,26-35
+1170,07-05-2024,C170,36,Female,Ahmedabad,Gujarat,Fashion,Jeans,Credit Card,2518,1578,17,3,5,Returned,2089.94,511.94,24.49544006,2024,May,36-45
+1171,29-05-2024,C171,31,Male,Hyderabad,Telangana,Fashion,Jeans,UPI,40158,34724,25,3,5,Delivered,30118.5,-4605.5,-15.29126617,2024,May,26-35
+1172,28-01-2024,C172,33,Male,Chennai,Tamil Nadu,Home,Decor,Credit Card,51060,36813,6,2,2,Delivered,47996.4,11183.4,23.30049754,2024,January,26-35
+1173,02-04-2024,C173,37,Female,Mumbai,Maharashtra,Fashion,Kurti,Credit Card,30514,25305,13,3,7,Delivered,26547.18,1242.18,4.679141061,2024,April,36-45
+1174,25-01-2024,C174,32,Female,Pune,Maharashtra,Home,Decor,UPI,50477,32470,24,3,5,Delivered,38362.52,5892.52,15.36009626,2024,January,26-35
+1175,10-01-2024,C175,24,Female,Ahmedabad,Gujarat,Home,Appliances,Debit Card,10760,8413,21,1,4,Delayed,8500.4,87.4,1.028186909,2024,January,18-25
+1176,11-02-2024,C176,32,Female,Lucknow,Uttar Pradesh,Fashion,Kurti,UPI,55282,41622,20,3,6,Delivered,44225.6,2603.6,5.887088021,2024,February,26-35
+1177,04-04-2024,C177,30,Male,Kolkata,West Bengal,Home,Decor,Debit Card,53216,46278,27,3,2,Delivered,38847.68,-7430.32,-19.126805,2024,April,26-35
+1178,16-06-2024,C178,45,Male,Hyderabad,Telangana,Home,Appliances,Credit Card,12174,9219,28,3,8,Delayed,8765.28,-453.72,-5.176332074,2024,June,36-45
+1179,23-06-2024,C179,27,Male,Lucknow,Uttar Pradesh,Home,Furniture,Credit Card,13503,8178,15,2,3,Delivered,11477.55,3299.55,28.74785995,2024,June,26-35
+1180,15-04-2024,C180,36,Female,Hyderabad,Telangana,Home,Kitchen,Debit Card,34992,23171,15,3,5,Delivered,29743.2,6572.2,22.0964792,2024,April,36-45
+1181,14-02-2024,C181,34,Female,Jaipur,Rajasthan,Fashion,T-Shirt,COD,51593,44385,26,3,8,Delivered,38178.82,-6206.18,-16.2555574,2024,February,26-35
+1182,19-02-2024,C182,50,Male,Chennai,Tamil Nadu,Home,Decor,COD,15736,13886,14,2,7,Delivered,13532.96,-353.04,-2.608741916,2024,February,46-60
+1183,22-03-2024,C183,35,Female,Jaipur,Rajasthan,Home,Decor,COD,19860,12642,26,3,5,Delayed,14696.4,2054.4,13.97893362,2024,March,26-35
+1184,29-03-2024,C184,50,Male,Chennai,Tamil Nadu,Electronics,Tablet,Credit Card,47801,29813,19,3,4,Delivered,38718.81,8905.81,23.00124926,2024,March,46-60
+1185,21-02-2024,C185,46,Female,Jaipur,Rajasthan,Home,Decor,Credit Card,9996,6325,28,3,3,Delivered,7197.12,872.12,12.11762483,2024,February,46-60
+1186,12-06-2024,C186,27,Male,Mumbai,Maharashtra,Fashion,Shoes,Credit Card,48012,35611,26,1,2,Returned,35528.88,-82.12,-0.23113591,2024,June,26-35
+1187,14-04-2024,C187,40,Female,Ahmedabad,Gujarat,Home,Kitchen,UPI,50539,44937,15,2,7,Delivered,42958.15,-1978.85,-4.606460008,2024,April,36-45
+1188,15-06-2024,C188,38,Male,Jaipur,Rajasthan,Home,Furniture,COD,12473,9047,10,1,8,Delivered,11225.7,2178.7,19.40814381,2024,June,36-45
+1189,17-02-2024,C189,49,Female,Hyderabad,Telangana,Electronics,Tablet,COD,38221,29844,15,2,5,Returned,32487.85,2643.85,8.137965424,2024,February,46-60
+1190,04-02-2024,C190,47,Female,Chennai,Tamil Nadu,Electronics,Mobile,UPI,22671,14707,19,3,4,Delivered,18363.51,3656.51,19.91182514,2024,February,46-60
+1191,27-03-2024,C191,45,Female,Lucknow,Uttar Pradesh,Home,Kitchen,Debit Card,12501,9791,25,2,8,Delivered,9375.75,-415.25,-4.428979015,2024,March,36-45
+1192,23-01-2024,C192,32,Male,Bangalore,Karnataka,Electronics,Camera,Debit Card,22207,19558,5,2,5,Delivered,21096.65,1538.65,7.293338042,2024,January,26-35
+1193,25-03-2024,C193,29,Male,Chennai,Tamil Nadu,Home,Decor,COD,46401,31130,26,1,5,Delivered,34336.74,3206.74,9.339092762,2024,March,26-35
+1194,24-06-2024,C194,36,Female,Mumbai,Maharashtra,Home,Decor,Debit Card,25087,19677,12,1,5,Delivered,22076.56,2399.56,10.86926586,2024,June,36-45
+1195,16-04-2024,C195,42,Female,Jaipur,Rajasthan,Home,Kitchen,COD,50929,34338,29,3,8,Delivered,36159.59,1821.59,5.037640084,2024,April,36-45
+1196,15-05-2024,C196,42,Female,Mumbai,Maharashtra,Home,Furniture,Credit Card,5047,4283,21,1,6,Delivered,3987.13,-295.87,-7.420625864,2024,May,36-45
+1197,24-03-2024,C197,47,Female,Mumbai,Maharashtra,Home,Kitchen,COD,47983,37184,7,3,5,Delayed,44624.19,7440.19,16.67299731,2024,March,46-60
+1198,03-02-2024,C198,36,Female,Ahmedabad,Gujarat,Home,Furniture,Debit Card,37621,27791,30,2,7,Delivered,26334.7,-1456.3,-5.529966166,2024,February,36-45
+1199,01-01-2024,C199,43,Male,Lucknow,Uttar Pradesh,Electronics,Mobile,UPI,28767,20233,7,3,2,Delayed,26753.31,6520.31,24.37197491,2024,January,36-45
+1200,30-04-2024,C200,21,Female,Kolkata,West Bengal,Electronics,Laptop,COD,51189,40565,28,3,5,Delivered,36856.08,-3708.92,-10.06325144,2024,April,18-25
+1201,24-04-2024,C201,47,Female,Kolkata,West Bengal,Electronics,Headphones,Credit Card,44371,38264,9,3,8,Delivered,40377.61,2113.61,5.234608983,2024,April,46-60
+1202,17-05-2024,C202,32,Male,Delhi,Delhi,Electronics,Mobile,Credit Card,20553,15186,28,3,5,Delivered,14798.16,-387.84,-2.620866378,2024,May,26-35
+1203,04-03-2024,C203,34,Female,Bangalore,Karnataka,Fashion,Saree,UPI,58357,47707,8,1,8,Delivered,53688.44,5981.44,11.1410203,2024,March,26-35
+1204,02-03-2024,C204,26,Male,Mumbai,Maharashtra,Home,Furniture,COD,30257,23580,27,1,3,Delivered,22087.61,-1492.39,-6.756683951,2024,March,26-35
+1205,22-04-2024,C205,27,Male,Hyderabad,Telangana,Electronics,Smartwatch,Debit Card,19957,13376,28,3,4,Delivered,14369.04,993.04,6.910969696,2024,April,26-35
+1206,01-03-2024,C206,29,Male,Jaipur,Rajasthan,Electronics,Camera,COD,20693,14123,22,3,7,Delayed,16140.54,2017.54,12.49982962,2024,March,26-35
+1207,22-05-2024,C207,35,Male,Pune,Maharashtra,Home,Appliances,COD,52498,39758,27,2,5,Delivered,38323.54,-1434.46,-3.743025827,2024,May,26-35
+1208,17-02-2024,C208,44,Female,Delhi,Delhi,Electronics,Tablet,COD,57199,46461,30,2,2,Delivered,40039.3,-6421.7,-16.03849218,2024,February,36-45
+1209,22-05-2024,C209,36,Male,Kolkata,West Bengal,Electronics,Tablet,Credit Card,14325,10014,7,2,8,Delivered,13322.25,3308.25,24.83251703,2024,May,36-45
+1210,14-01-2024,C210,28,Female,Lucknow,Uttar Pradesh,Home,Furniture,Credit Card,58253,36223,30,3,7,Delivered,40777.1,4554.1,11.16827827,2024,January,26-35
+1211,02-05-2024,C211,26,Female,Chennai,Tamil Nadu,Electronics,Laptop,Credit Card,13453,11954,8,3,8,Delivered,12376.76,422.76,3.415756628,2024,May,26-35
+1212,27-06-2024,C212,39,Male,Kolkata,West Bengal,Electronics,Smartwatch,Debit Card,22077,18382,17,2,6,Delivered,18323.91,-58.09,-0.317017492,2024,June,36-45
+1213,07-03-2024,C213,31,Female,Ahmedabad,Gujarat,Electronics,Headphones,UPI,31768,26319,15,1,4,Delivered,27002.8,683.8,2.532329981,2024,March,26-35
+1214,24-05-2024,C214,47,Male,Bangalore,Karnataka,Electronics,Tablet,Credit Card,37261,32805,23,3,5,Delivered,28690.97,-4114.03,-14.33911088,2024,May,46-60
+1215,25-03-2024,C215,27,Female,Lucknow,Uttar Pradesh,Electronics,Camera,COD,37086,29534,26,2,4,Delivered,27443.64,-2090.36,-7.616919621,2024,March,26-35
+1216,13-06-2024,C216,43,Female,Ahmedabad,Gujarat,Electronics,Headphones,UPI,53099,37469,9,3,6,Delivered,48320.09,10851.09,22.45668417,2024,June,36-45
+1217,14-05-2024,C217,21,Male,Hyderabad,Telangana,Electronics,Camera,Credit Card,10010,8536,12,1,7,Delivered,8808.8,272.8,3.096903097,2024,May,18-25
+1218,09-05-2024,C218,34,Female,Hyderabad,Telangana,Home,Appliances,UPI,44206,32993,5,3,6,Delivered,41995.7,9002.7,21.43719476,2024,May,26-35
+1219,15-05-2024,C219,43,Female,Jaipur,Rajasthan,Fashion,Shirts,Credit Card,33913,28620,26,2,8,Delayed,25095.62,-3524.38,-14.04380525,2024,May,36-45
+1220,28-01-2024,C220,49,Male,Jaipur,Rajasthan,Electronics,Laptop,UPI,13578,10671,13,2,4,Delivered,11812.86,1141.86,9.666245092,2024,January,46-60
+1221,05-04-2024,C221,50,Female,Ahmedabad,Gujarat,Home,Kitchen,UPI,46694,31180,26,1,7,Returned,34553.56,3373.56,9.763277648,2024,April,46-60
+1222,24-01-2024,C222,32,Female,Kolkata,West Bengal,Home,Appliances,COD,4677,3699,27,1,2,Delivered,3414.21,-284.79,-8.341314682,2024,January,26-35
+1223,14-06-2024,C223,45,Female,Lucknow,Uttar Pradesh,Electronics,Smartwatch,UPI,3788,2533,27,3,5,Delivered,2765.24,232.24,8.398547685,2024,June,36-45
+1224,24-06-2024,C224,49,Female,Jaipur,Rajasthan,Home,Furniture,COD,12754,11206,15,1,3,Delivered,10840.9,-365.1,-3.367801566,2024,June,46-60
+1225,20-01-2024,C225,29,Male,Lucknow,Uttar Pradesh,Electronics,Smartwatch,Credit Card,55699,47613,26,3,4,Delivered,41217.26,-6395.74,-15.51714015,2024,January,26-35
+1226,25-06-2024,C226,43,Male,Jaipur,Rajasthan,Home,Decor,COD,4519,2843,12,1,4,Delivered,3976.72,1133.72,28.50892193,2024,June,36-45
+1227,24-03-2024,C227,20,Female,Ahmedabad,Gujarat,Fashion,Saree,COD,24318,18625,17,2,3,Delivered,20183.94,1558.94,7.723665449,2024,March,18-25
+1228,22-01-2024,C228,44,Female,Delhi,Delhi,Home,Furniture,COD,6376,4338,17,3,8,Delivered,5292.08,954.08,18.02845006,2024,January,36-45
+1229,22-03-2024,C229,31,Male,Mumbai,Maharashtra,Electronics,Tablet,COD,30146,21342,13,1,3,Delivered,26227.02,4885.02,18.62590565,2024,March,26-35
+1230,24-04-2024,C230,37,Female,Mumbai,Maharashtra,Electronics,Mobile,COD,24194,18539,24,3,8,Delivered,18387.44,-151.56,-0.824258298,2024,April,36-45
+1231,04-01-2024,C231,29,Female,Kolkata,West Bengal,Electronics,Headphones,COD,37669,32830,12,3,6,Delivered,33148.72,318.72,0.961485089,2024,January,26-35
+1232,13-02-2024,C232,24,Female,Chennai,Tamil Nadu,Fashion,Jeans,UPI,10563,6538,18,2,5,Delivered,8661.66,2123.66,24.51793305,2024,February,18-25
+1233,02-04-2024,C233,28,Male,Ahmedabad,Gujarat,Home,Kitchen,COD,31006,19598,14,1,5,Delivered,26665.16,7067.16,26.50334744,2024,April,26-35
+1234,25-03-2024,C234,34,Female,Kolkata,West Bengal,Home,Kitchen,COD,20689,14403,27,1,5,Delivered,15102.97,699.97,4.63465133,2024,March,26-35
+1235,22-03-2024,C235,29,Female,Lucknow,Uttar Pradesh,Electronics,Tablet,Credit Card,25645,17543,30,2,4,Delivered,17951.5,408.5,2.275575857,2024,March,26-35
+1236,31-05-2024,C236,37,Male,Jaipur,Rajasthan,Electronics,Headphones,UPI,31252,27592,11,2,8,Delivered,27814.28,222.28,0.799157843,2024,May,36-45
+1237,14-04-2024,C237,41,Female,Bangalore,Karnataka,Home,Decor,UPI,16861,11394,9,3,5,Delivered,15343.51,3949.51,25.74059,2024,April,36-45
+1238,24-04-2024,C238,39,Female,Lucknow,Uttar Pradesh,Fashion,Kurti,Debit Card,34201,29995,27,2,6,Delivered,24966.73,-5028.27,-20.13988216,2024,April,36-45
+1239,28-06-2024,C239,48,Male,Mumbai,Maharashtra,Electronics,Headphones,COD,44561,31482,25,3,2,Delivered,33420.75,1938.75,5.801036781,2024,June,46-60
+1240,25-03-2024,C240,50,Female,Mumbai,Maharashtra,Electronics,Mobile,Credit Card,17956,11969,28,3,6,Delivered,12928.32,959.32,7.420299002,2024,March,46-60
+1241,24-04-2024,C241,31,Female,Ahmedabad,Gujarat,Home,Kitchen,UPI,23607,21230,20,1,4,Delivered,18885.6,-2344.4,-12.41369085,2024,April,26-35
+1242,30-01-2024,C242,46,Male,Pune,Maharashtra,Fashion,Shoes,COD,30840,25760,21,2,4,Delivered,24363.6,-1396.4,-5.731501092,2024,January,46-60
+1243,27-06-2024,C243,34,Female,Mumbai,Maharashtra,Fashion,Shirts,Credit Card,54096,43992,5,2,7,Delivered,51391.2,7399.2,14.39779573,2024,June,26-35
+1244,03-03-2024,C244,36,Male,Jaipur,Rajasthan,Electronics,Tablet,Credit Card,37690,27434,19,1,8,Delivered,30528.9,3094.9,10.13760732,2024,March,36-45
+1245,17-02-2024,C245,40,Female,Kolkata,West Bengal,Electronics,Headphones,Credit Card,41246,35674,19,3,5,Delivered,33409.26,-2264.74,-6.778779297,2024,February,36-45
+1246,22-02-2024,C246,28,Male,Lucknow,Uttar Pradesh,Electronics,Smartwatch,COD,13252,9405,11,2,2,Delivered,11794.28,2389.28,20.25795555,2024,February,26-35
+1247,15-05-2024,C247,50,Female,Lucknow,Uttar Pradesh,Fashion,Kurti,Credit Card,26725,20741,16,2,8,Delivered,22449,1708,7.60835672,2024,May,46-60
+1248,21-06-2024,C248,42,Female,Lucknow,Uttar Pradesh,Home,Furniture,Debit Card,45047,28838,8,1,4,Delivered,41443.24,12605.24,30.41567213,2024,June,36-45
+1249,26-06-2024,C249,24,Female,Kolkata,West Bengal,Home,Kitchen,Credit Card,38670,27653,10,2,7,Delivered,34803,7150,20.54420596,2024,June,18-25
+1250,22-05-2024,C250,25,Female,Chennai,Tamil Nadu,Electronics,Laptop,UPI,21616,18429,24,1,8,Delivered,16428.16,-2000.84,-12.1793311,2024,May,18-25
+1251,04-05-2024,C251,24,Male,Kolkata,West Bengal,Home,Appliances,Credit Card,27813,22400,18,3,8,Delivered,22806.66,406.66,1.783075645,2024,May,18-25
+1252,22-01-2024,C252,38,Male,Delhi,Delhi,Fashion,Shirts,COD,19012,12689,14,1,8,Delivered,16350.32,3661.32,22.39295622,2024,January,36-45
+1253,20-05-2024,C253,36,Male,Lucknow,Uttar Pradesh,Electronics,Tablet,COD,51797,39517,16,3,8,Delivered,43509.48,3992.48,9.176115182,2024,May,36-45
+1254,19-05-2024,C254,26,Female,Mumbai,Maharashtra,Home,Kitchen,UPI,20510,17688,6,2,4,Delivered,19279.4,1591.4,8.254406257,2024,May,26-35
+1255,22-04-2024,C255,47,Male,Delhi,Delhi,Electronics,Headphones,Credit Card,39530,31890,27,3,7,Delivered,28856.9,-3033.1,-10.51083103,2024,April,46-60
+1256,22-02-2024,C256,46,Male,Hyderabad,Telangana,Home,Decor,Debit Card,35883,24555,22,1,4,Returned,27988.74,3433.74,12.26829075,2024,February,46-60
+1257,15-03-2024,C257,38,Female,Jaipur,Rajasthan,Home,Furniture,Credit Card,9885,8786,30,2,2,Returned,6919.5,-1866.5,-26.97449238,2024,March,36-45
+1258,28-06-2024,C258,47,Male,Delhi,Delhi,Electronics,Headphones,Debit Card,22108,18759,29,3,5,Delivered,15696.68,-3062.32,-19.50934847,2024,June,46-60
+1259,09-06-2024,C259,33,Female,Ahmedabad,Gujarat,Electronics,Headphones,Debit Card,53074,45857,7,2,6,Delivered,49358.82,3501.82,7.09461855,2024,June,26-35
+1260,26-04-2024,C260,50,Female,Pune,Maharashtra,Home,Furniture,Debit Card,57944,48223,28,1,7,Returned,41719.68,-6503.32,-15.5881349,2024,April,46-60
+1261,17-01-2024,C261,45,Female,Delhi,Delhi,Fashion,Saree,COD,33421,22745,14,2,6,Delivered,28742.06,5997.06,20.86510153,2024,January,36-45
+1262,28-03-2024,C262,48,Male,Hyderabad,Telangana,Electronics,Headphones,COD,52372,44569,5,1,8,Delivered,49753.4,5184.4,10.42019239,2024,March,46-60
+1263,01-01-2024,C263,50,Female,Delhi,Delhi,Home,Kitchen,Debit Card,58812,46755,10,2,2,Delivered,52930.8,6175.8,11.66768687,2024,January,46-60
+1264,22-01-2024,C264,31,Male,Hyderabad,Telangana,Fashion,T-Shirt,UPI,21021,17190,29,1,5,Delivered,14924.91,-2265.09,-15.17657393,2024,January,26-35
+1265,01-01-2024,C265,26,Female,Mumbai,Maharashtra,Electronics,Smartwatch,UPI,15823,11959,19,1,2,Delivered,12816.63,857.63,6.6915406,2024,January,26-35
+1266,18-04-2024,C266,42,Male,Ahmedabad,Gujarat,Electronics,Laptop,Debit Card,26104,16361,30,1,2,Delivered,18272.8,1911.8,10.46254542,2024,April,36-45
+1267,05-02-2024,C267,32,Male,Bangalore,Karnataka,Electronics,Smartwatch,Credit Card,37915,22845,25,1,5,Delivered,28436.25,5591.25,19.66240274,2024,February,26-35
+1268,09-06-2024,C268,43,Male,Kolkata,West Bengal,Home,Appliances,COD,57358,38153,8,1,8,Delivered,52769.36,14616.36,27.69857357,2024,June,36-45
+1269,30-03-2024,C269,50,Female,Pune,Maharashtra,Electronics,Laptop,Debit Card,19151,15194,12,3,6,Delivered,16852.88,1658.88,9.843302747,2024,March,46-60
+1270,25-06-2024,C270,20,Female,Delhi,Delhi,Home,Kitchen,Credit Card,50010,35883,25,1,8,Delayed,37507.5,1624.5,4.331133773,2024,June,18-25
+1271,06-05-2024,C271,32,Male,Delhi,Delhi,Fashion,T-Shirt,COD,39923,24804,5,2,4,Delivered,37926.85,13122.85,34.6004216,2024,May,26-35
+1272,03-04-2024,C272,37,Male,Ahmedabad,Gujarat,Electronics,Mobile,COD,39493,24495,13,1,2,Delayed,34358.91,9863.91,28.70844855,2024,April,36-45
+1273,09-05-2024,C273,29,Female,Kolkata,West Bengal,Home,Appliances,Debit Card,6401,5070,22,3,3,Delivered,4992.78,-77.22,-1.546633339,2024,May,26-35
+1274,21-01-2024,C274,36,Male,Bangalore,Karnataka,Home,Decor,Debit Card,26606,20644,29,3,7,Delivered,18890.26,-1753.74,-9.283831985,2024,January,36-45
+1275,27-06-2024,C275,33,Male,Hyderabad,Telangana,Electronics,Mobile,Credit Card,29474,18709,24,3,2,Delivered,22400.24,3691.24,16.47857344,2024,June,26-35
+1276,31-01-2024,C276,20,Male,Hyderabad,Telangana,Electronics,Camera,Credit Card,23721,17954,30,3,4,Delivered,16604.7,-1349.3,-8.126012515,2024,January,18-25
+1277,09-03-2024,C277,43,Male,Hyderabad,Telangana,Fashion,Jeans,COD,18824,14252,13,3,6,Delivered,16376.88,2124.88,12.97487678,2024,March,36-45
+1278,26-04-2024,C278,36,Female,Hyderabad,Telangana,Fashion,Kurti,UPI,11936,8478,13,1,6,Delivered,10384.32,1906.32,18.35767773,2024,April,36-45
+1279,28-02-2024,C279,43,Male,Hyderabad,Telangana,Electronics,Laptop,UPI,4013,2975,17,1,3,Delayed,3330.79,355.79,10.68185025,2024,February,36-45
+1280,21-05-2024,C280,45,Female,Delhi,Delhi,Fashion,Saree,Debit Card,28279,24737,15,2,8,Delivered,24037.15,-699.85,-2.911534853,2024,May,36-45
+1281,31-01-2024,C281,36,Male,Bangalore,Karnataka,Electronics,Smartwatch,Debit Card,4009,3552,7,2,8,Delivered,3728.37,176.37,4.73048544,2024,January,36-45
+1282,24-03-2024,C282,22,Female,Hyderabad,Telangana,Fashion,Saree,Debit Card,20109,15466,14,3,6,Delivered,17293.74,1827.74,10.56879541,2024,March,18-25
+1283,31-05-2024,C283,35,Male,Jaipur,Rajasthan,Electronics,Laptop,UPI,1417,1246,5,1,6,Delivered,1346.15,100.15,7.439735542,2024,May,26-35
+1284,26-03-2024,C284,20,Female,Chennai,Tamil Nadu,Electronics,Laptop,Credit Card,35721,31967,18,2,2,Returned,29291.22,-2675.78,-9.135092359,2024,March,18-25
+1285,12-03-2024,C285,22,Male,Delhi,Delhi,Home,Appliances,Credit Card,46930,40766,19,3,2,Delivered,38013.3,-2752.7,-7.241412874,2024,March,18-25
+1286,12-06-2024,C286,46,Female,Mumbai,Maharashtra,Home,Furniture,Debit Card,29507,23568,9,1,4,Delivered,26851.37,3283.37,12.22794219,2024,June,46-60
+1287,10-04-2024,C287,42,Female,Pune,Maharashtra,Fashion,Shoes,UPI,16309,10150,11,1,8,Delivered,14515.01,4365.01,30.07238714,2024,April,36-45
+1288,09-02-2024,C288,23,Male,Ahmedabad,Gujarat,Fashion,Shoes,Debit Card,27641,17585,16,1,5,Delivered,23218.44,5633.44,24.26278424,2024,February,18-25
+1289,31-01-2024,C289,22,Male,Chennai,Tamil Nadu,Home,Furniture,Debit Card,15091,12839,15,1,2,Delivered,12827.35,-11.65,-0.090821565,2024,January,18-25
+1290,11-04-2024,C290,36,Male,Chennai,Tamil Nadu,Fashion,Saree,UPI,3036,2688,19,3,7,Delivered,2459.16,-228.84,-9.305616552,2024,April,36-45
+1291,28-04-2024,C291,23,Male,Mumbai,Maharashtra,Electronics,Mobile,Debit Card,55419,46235,12,1,3,Delayed,48768.72,2533.72,5.195379333,2024,April,18-25
+1292,24-06-2024,C292,40,Male,Lucknow,Uttar Pradesh,Home,Decor,Credit Card,54264,33779,7,1,7,Delivered,50465.52,16686.52,33.06518986,2024,June,36-45
+1293,24-01-2024,C293,48,Female,Mumbai,Maharashtra,Electronics,Camera,COD,4318,2808,23,2,8,Delivered,3324.86,516.86,15.54531619,2024,January,46-60
+1294,08-01-2024,C294,32,Female,Bangalore,Karnataka,Fashion,Saree,Credit Card,13265,9053,19,1,2,Delivered,10744.65,1691.65,15.74411451,2024,January,26-35
+1295,14-06-2024,C295,29,Female,Kolkata,West Bengal,Home,Appliances,Credit Card,4996,3129,17,1,5,Delivered,4146.68,1017.68,24.54204327,2024,June,26-35
+1296,10-06-2024,C296,45,Male,Kolkata,West Bengal,Home,Decor,COD,32436,24760,20,2,6,Delivered,25948.8,1188.8,4.581329387,2024,June,36-45
+1297,10-03-2024,C297,25,Male,Pune,Maharashtra,Home,Kitchen,COD,2920,2536,29,2,2,Delayed,2073.2,-462.8,-22.32297897,2024,March,18-25
+1298,15-05-2024,C298,31,Male,Bangalore,Karnataka,Electronics,Laptop,Credit Card,44048,29615,22,3,2,Delivered,34357.44,4742.44,13.80324029,2024,May,26-35
+1299,27-05-2024,C299,47,Female,Pune,Maharashtra,Electronics,Laptop,UPI,16502,12834,30,3,7,Delivered,11551.4,-1282.6,-11.10341604,2024,May,46-60
+1300,29-06-2024,C300,42,Female,Lucknow,Uttar Pradesh,Home,Kitchen,COD,37903,33525,30,2,6,Delivered,26532.1,-6992.9,-26.35637586,2024,June,36-45
+1301,10-01-2024,C301,22,Male,Delhi,Delhi,Home,Kitchen,Credit Card,2306,1747,5,2,6,Delivered,2190.7,443.7,20.25380016,2024,January,18-25
+1302,28-03-2024,C302,42,Male,Pune,Maharashtra,Electronics,Mobile,Debit Card,10680,8287,9,1,8,Delivered,9718.8,1431.8,14.73227147,2024,March,36-45
+1303,19-01-2024,C303,31,Female,Lucknow,Uttar Pradesh,Electronics,Tablet,COD,20776,14476,10,3,5,Delivered,18698.4,4222.4,22.58161126,2024,January,26-35
+1304,15-06-2024,C304,30,Male,Jaipur,Rajasthan,Home,Decor,Debit Card,15630,12498,10,2,4,Delivered,14067,1569,11.15376413,2024,June,26-35
+1305,02-02-2024,C305,25,Male,Lucknow,Uttar Pradesh,Fashion,Kurti,UPI,3122,2043,15,3,3,Delivered,2653.7,610.7,23.01315145,2024,February,18-25
+1306,07-05-2024,C306,24,Female,Mumbai,Maharashtra,Electronics,Tablet,Debit Card,21939,14268,7,3,7,Delivered,20403.27,6135.27,30.07003289,2024,May,18-25
+1307,24-04-2024,C307,20,Female,Delhi,Delhi,Electronics,Headphones,COD,5442,3837,30,1,7,Delivered,3809.4,-27.6,-0.724523547,2024,April,18-25
+1308,22-04-2024,C308,43,Female,Bangalore,Karnataka,Fashion,Jeans,Credit Card,58787,41951,22,2,2,Delayed,45853.86,3902.86,8.511518987,2024,April,36-45
+1309,11-02-2024,C309,34,Male,Hyderabad,Telangana,Fashion,Shirts,COD,21887,14846,8,1,4,Delivered,20136.04,5290.04,26.27150125,2024,February,26-35
+1310,11-02-2024,C310,43,Male,Jaipur,Rajasthan,Electronics,Tablet,Credit Card,39930,35760,20,3,2,Delivered,31944,-3816,-11.94590533,2024,February,36-45
+1311,04-06-2024,C311,48,Female,Bangalore,Karnataka,Electronics,Mobile,Debit Card,22698,15018,11,2,7,Delivered,20201.22,5183.22,25.65795531,2024,June,46-60
+1312,18-06-2024,C312,29,Female,Delhi,Delhi,Electronics,Mobile,COD,26749,20637,20,1,2,Delivered,21399.2,762.2,3.561815395,2024,June,26-35
+1313,23-01-2024,C313,29,Female,Delhi,Delhi,Electronics,Mobile,Debit Card,14562,9483,14,1,5,Delayed,12523.32,3040.32,24.27726833,2024,January,26-35
+1314,11-04-2024,C314,35,Female,Chennai,Tamil Nadu,Electronics,Headphones,UPI,36659,26257,16,2,4,Delivered,30793.56,4536.56,14.73217127,2024,April,26-35
+1315,08-03-2024,C315,34,Female,Chennai,Tamil Nadu,Electronics,Tablet,Debit Card,37978,23489,29,3,7,Delivered,26964.38,3475.38,12.88878142,2024,March,26-35
+1316,18-05-2024,C316,33,Male,Jaipur,Rajasthan,Electronics,Camera,Credit Card,54635,41346,22,3,8,Delayed,42615.3,1269.3,2.978507719,2024,May,26-35
+1317,01-05-2024,C317,29,Male,Kolkata,West Bengal,Home,Furniture,Credit Card,33905,26153,21,3,7,Returned,26784.95,631.95,2.35934732,2024,May,26-35
+1318,31-01-2024,C318,50,Female,Bangalore,Karnataka,Electronics,Laptop,COD,53983,35510,6,2,2,Returned,50744.02,15234.02,30.02131089,2024,January,46-60
+1319,21-02-2024,C319,46,Male,Lucknow,Uttar Pradesh,Fashion,Shoes,Debit Card,48651,42533,7,1,5,Delivered,45245.43,2712.43,5.994925896,2024,February,46-60
+1320,11-03-2024,C320,36,Female,Hyderabad,Telangana,Home,Appliances,UPI,8374,6065,9,3,6,Delivered,7620.34,1555.34,20.41037539,2024,March,36-45
+1321,28-01-2024,C321,38,Male,Chennai,Tamil Nadu,Home,Decor,COD,58533,42334,17,3,5,Delivered,48582.39,6248.39,12.86142983,2024,January,36-45
+1322,10-01-2024,C322,25,Female,Kolkata,West Bengal,Electronics,Smartwatch,Debit Card,40888,32883,17,1,5,Delayed,33937.04,1054.04,3.105868986,2024,January,18-25
+1323,25-06-2024,C323,27,Male,Ahmedabad,Gujarat,Fashion,Shoes,COD,2325,1630,30,2,4,Delivered,1627.5,-2.5,-0.153609831,2024,June,26-35
+1324,27-06-2024,C324,41,Male,Delhi,Delhi,Electronics,Tablet,UPI,49740,36456,15,2,7,Delivered,42279,5823,13.772795,2024,June,36-45
+1325,18-02-2024,C325,34,Male,Kolkata,West Bengal,Home,Appliances,UPI,50774,38331,16,1,6,Delivered,42650.16,4319.16,10.12694911,2024,February,26-35
+1326,20-03-2024,C326,42,Female,Bangalore,Karnataka,Home,Furniture,UPI,12386,8147,11,1,3,Delivered,11023.54,2876.54,26.09452136,2024,March,36-45
+1327,02-04-2024,C327,42,Male,Chennai,Tamil Nadu,Fashion,Jeans,COD,34103,24522,8,3,2,Delivered,31374.76,6852.76,21.84163321,2024,April,36-45
+1328,01-06-2024,C328,34,Male,Ahmedabad,Gujarat,Home,Decor,Debit Card,23560,15291,13,3,8,Delivered,20497.2,5206.2,25.39956677,2024,June,26-35
+1329,08-01-2024,C329,32,Male,Bangalore,Karnataka,Home,Kitchen,COD,57171,38099,12,3,3,Delivered,50310.48,12211.48,24.2722391,2024,January,26-35
+1330,11-05-2024,C330,20,Male,Ahmedabad,Gujarat,Electronics,Headphones,Debit Card,12350,9637,5,1,4,Delivered,11732.5,2095.5,17.86064351,2024,May,18-25
+1331,13-06-2024,C331,28,Female,Kolkata,West Bengal,Fashion,Jeans,COD,17514,11654,14,3,6,Delayed,15062.04,3408.04,22.62668271,2024,June,26-35
+1332,29-05-2024,C332,23,Male,Jaipur,Rajasthan,Home,Decor,COD,37795,30016,24,2,4,Delivered,28724.2,-1291.8,-4.497253187,2024,May,18-25
+1333,17-01-2024,C333,30,Female,Pune,Maharashtra,Fashion,Shoes,Credit Card,43999,35785,25,2,3,Delivered,32999.25,-2785.75,-8.441858527,2024,January,26-35
+1334,15-01-2024,C334,45,Female,Pune,Maharashtra,Home,Kitchen,COD,48270,29330,20,2,4,Delayed,38616,9286,24.04702714,2024,January,36-45
+1335,09-04-2024,C335,43,Male,Lucknow,Uttar Pradesh,Home,Kitchen,COD,23489,19213,12,3,6,Delivered,20670.32,1457.32,7.050302076,2024,April,36-45
+1336,20-06-2024,C336,31,Female,Bangalore,Karnataka,Home,Kitchen,Credit Card,20253,12744,9,3,4,Delivered,18430.23,5686.23,30.85273488,2024,June,26-35
+1337,23-06-2024,C337,48,Female,Mumbai,Maharashtra,Electronics,Tablet,Debit Card,15636,12872,14,2,8,Delayed,13446.96,574.96,4.275761957,2024,June,46-60
+1338,07-03-2024,C338,38,Female,Ahmedabad,Gujarat,Electronics,Camera,Credit Card,4517,3884,23,3,6,Delivered,3478.09,-405.91,-11.67048581,2024,March,36-45
+1339,08-05-2024,C339,23,Female,Jaipur,Rajasthan,Fashion,Jeans,COD,4543,3912,9,1,3,Delivered,4134.13,222.13,5.373077286,2024,May,18-25
+1340,06-02-2024,C340,30,Male,Mumbai,Maharashtra,Fashion,Shoes,Debit Card,42355,37949,15,3,2,Delivered,36001.75,-1947.25,-5.408764852,2024,February,26-35
+1341,23-02-2024,C341,44,Male,Lucknow,Uttar Pradesh,Electronics,Camera,COD,52459,43492,7,1,6,Delivered,48786.87,5294.87,10.85306354,2024,February,36-45
+1342,13-04-2024,C342,33,Female,Kolkata,West Bengal,Electronics,Mobile,Credit Card,35981,23741,16,1,4,Delivered,30224.04,6483.04,21.44994514,2024,April,26-35
+1343,05-01-2024,C343,41,Male,Delhi,Delhi,Electronics,Headphones,Debit Card,58474,41125,9,1,5,Delivered,53211.34,12086.34,22.71384258,2024,January,36-45
+1344,12-02-2024,C344,22,Male,Chennai,Tamil Nadu,Fashion,Jeans,Credit Card,48699,36820,21,2,5,Delayed,38472.21,1652.21,4.294554433,2024,February,18-25
+1345,28-03-2024,C345,48,Female,Pune,Maharashtra,Electronics,Laptop,Credit Card,54215,39089,12,1,7,Returned,47709.2,8620.2,18.06821326,2024,March,46-60
+1346,06-01-2024,C346,38,Male,Mumbai,Maharashtra,Fashion,T-Shirt,UPI,43633,36548,17,3,4,Delivered,36215.39,-332.61,-0.918421699,2024,January,36-45
+1347,01-06-2024,C347,21,Male,Hyderabad,Telangana,Electronics,Headphones,Credit Card,8588,6226,17,1,6,Delivered,7128.04,902.04,12.65481114,2024,June,18-25
+1348,22-02-2024,C348,42,Male,Chennai,Tamil Nadu,Fashion,T-Shirt,COD,7617,6084,13,3,6,Delivered,6626.79,542.79,8.190843531,2024,February,36-45
+1349,27-01-2024,C349,36,Male,Chennai,Tamil Nadu,Electronics,Mobile,Credit Card,33619,22174,11,2,8,Delivered,29920.91,7746.91,25.89129141,2024,January,36-45
+1350,01-04-2024,C350,42,Female,Chennai,Tamil Nadu,Electronics,Mobile,UPI,36922,27651,11,3,5,Delivered,32860.58,5209.58,15.85358506,2024,April,36-45
+1351,04-01-2024,C351,41,Male,Mumbai,Maharashtra,Home,Appliances,UPI,10774,9533,29,3,2,Delivered,7649.54,-1883.46,-24.62187269,2024,January,36-45
+1352,06-03-2024,C352,40,Male,Ahmedabad,Gujarat,Fashion,Shoes,Debit Card,31426,19327,10,1,8,Delivered,28283.4,8956.4,31.66663131,2024,March,36-45
+1353,19-04-2024,C353,43,Male,Mumbai,Maharashtra,Electronics,Mobile,COD,56836,36461,25,1,4,Delivered,42627,6166,14.46501044,2024,April,36-45
+1354,08-06-2024,C354,28,Male,Pune,Maharashtra,Fashion,Saree,COD,8460,6093,19,2,8,Delivered,6852.6,759.6,11.08484371,2024,June,26-35
+1355,17-04-2024,C355,40,Male,Mumbai,Maharashtra,Electronics,Headphones,COD,48606,30018,10,1,5,Delayed,43745.4,13727.4,31.38021369,2024,April,36-45
+1356,25-05-2024,C356,41,Female,Bangalore,Karnataka,Home,Appliances,Credit Card,52063,36838,5,3,8,Delivered,49459.85,12621.85,25.51938593,2024,May,36-45
+1357,03-05-2024,C357,49,Female,Mumbai,Maharashtra,Fashion,Jeans,Credit Card,4012,2483,25,2,2,Delivered,3009,526,17.48089066,2024,May,46-60
+1358,20-06-2024,C358,47,Female,Jaipur,Rajasthan,Home,Furniture,COD,29367,23449,12,2,4,Delivered,25842.96,2393.96,9.263489941,2024,June,46-60
+1359,08-02-2024,C359,46,Male,Hyderabad,Telangana,Home,Kitchen,Debit Card,34132,29171,20,1,2,Delivered,27305.6,-1865.4,-6.831565686,2024,February,46-60
+1360,02-03-2024,C360,30,Female,Hyderabad,Telangana,Home,Kitchen,COD,37077,29401,17,1,2,Delivered,30773.91,1372.91,4.461279051,2024,March,26-35
+1361,23-01-2024,C361,47,Female,Ahmedabad,Gujarat,Fashion,Shirts,UPI,33595,27667,5,1,5,Delivered,31915.25,4248.25,13.31103469,2024,January,46-60
+1362,24-01-2024,C362,45,Female,Jaipur,Rajasthan,Home,Kitchen,Credit Card,43899,35182,15,2,8,Delivered,37314.15,2132.15,5.714052176,2024,January,36-45
+1363,26-04-2024,C363,30,Female,Pune,Maharashtra,Home,Appliances,Debit Card,8472,5330,26,1,2,Delivered,6269.28,939.28,14.98226272,2024,April,26-35
+1364,20-05-2024,C364,36,Female,Mumbai,Maharashtra,Electronics,Laptop,Debit Card,33271,21364,27,3,7,Delivered,24287.83,2923.83,12.03825126,2024,May,36-45
+1365,05-06-2024,C365,26,Male,Mumbai,Maharashtra,Fashion,Saree,COD,30952,26227,11,3,4,Delivered,27547.28,1320.28,4.792778089,2024,June,26-35
+1366,12-01-2024,C366,49,Male,Ahmedabad,Gujarat,Fashion,T-Shirt,UPI,39621,35138,9,2,2,Delivered,36055.11,917.11,2.543633898,2024,January,46-60
+1367,21-05-2024,C367,49,Female,Lucknow,Uttar Pradesh,Fashion,Kurti,Credit Card,52188,45734,10,3,6,Delivered,46969.2,1235.2,2.62980847,2024,May,46-60
+1368,27-01-2024,C368,32,Female,Jaipur,Rajasthan,Fashion,Jeans,Debit Card,40911,35787,29,1,4,Delivered,29046.81,-6740.19,-23.20457909,2024,January,26-35
+1369,16-03-2024,C369,34,Male,Bangalore,Karnataka,Fashion,Kurti,Debit Card,46876,40591,21,2,8,Delivered,37032.04,-3558.96,-9.610488647,2024,March,26-35
+1370,21-05-2024,C370,40,Male,Delhi,Delhi,Electronics,Smartwatch,Credit Card,47817,32858,16,3,3,Returned,40166.28,7308.28,18.19506312,2024,May,36-45
+1371,08-05-2024,C371,37,Female,Mumbai,Maharashtra,Fashion,Kurti,Debit Card,32481,25167,26,3,5,Delivered,24035.94,-1131.06,-4.705703209,2024,May,36-45
+1372,18-04-2024,C372,45,Male,Jaipur,Rajasthan,Electronics,Mobile,Credit Card,25960,16707,26,1,3,Delivered,19210.4,2503.4,13.03148295,2024,April,36-45
+1373,14-03-2024,C373,41,Female,Bangalore,Karnataka,Electronics,Headphones,COD,52403,36081,29,3,2,Delivered,37206.13,1125.13,3.024044694,2024,March,36-45
+1374,27-01-2024,C374,39,Male,Jaipur,Rajasthan,Fashion,Saree,UPI,34483,28803,30,3,4,Delivered,24138.1,-4664.9,-19.325879,2024,January,36-45
+1375,07-04-2024,C375,32,Female,Pune,Maharashtra,Home,Furniture,COD,1849,1521,11,3,8,Delivered,1645.61,124.61,7.572268034,2024,April,26-35
+1376,27-02-2024,C376,49,Female,Lucknow,Uttar Pradesh,Home,Kitchen,UPI,51865,42398,11,2,5,Delivered,46159.85,3761.85,8.149614871,2024,February,46-60
+1377,17-02-2024,C377,50,Male,Jaipur,Rajasthan,Electronics,Camera,Debit Card,3663,2668,22,2,3,Delivered,2857.14,189.14,6.61990662,2024,February,46-60
+1378,02-01-2024,C378,30,Female,Bangalore,Karnataka,Electronics,Laptop,Debit Card,22143,17250,29,3,6,Delayed,15721.53,-1528.47,-9.722145364,2024,January,26-35
+1379,05-05-2024,C379,45,Female,Mumbai,Maharashtra,Home,Decor,Credit Card,35432,23597,10,3,2,Delivered,31888.8,8291.8,26.00223276,2024,May,36-45
+1380,16-04-2024,C380,37,Female,Mumbai,Maharashtra,Fashion,Saree,COD,58894,39105,15,2,4,Delivered,50059.9,10954.9,21.88358347,2024,April,36-45
+1381,23-05-2024,C381,46,Male,Mumbai,Maharashtra,Home,Decor,UPI,30207,20302,25,3,6,Delivered,22655.25,2353.25,10.38721709,2024,May,46-60
+1382,23-06-2024,C382,48,Female,Kolkata,West Bengal,Electronics,Camera,Debit Card,17815,13576,14,1,6,Delayed,15320.9,1744.9,11.38901762,2024,June,46-60
+1383,11-05-2024,C383,45,Female,Ahmedabad,Gujarat,Electronics,Tablet,Credit Card,59869,47623,15,3,2,Delayed,50888.65,3265.65,6.417246282,2024,May,36-45
+1384,17-05-2024,C384,37,Male,Mumbai,Maharashtra,Electronics,Headphones,COD,42255,35159,26,2,8,Delivered,31268.7,-3890.3,-12.441515,2024,May,36-45
+1385,14-06-2024,C385,46,Male,Bangalore,Karnataka,Electronics,Camera,Debit Card,47980,33562,7,1,2,Delivered,44621.4,11059.4,24.78496865,2024,June,46-60
+1386,22-05-2024,C386,22,Male,Chennai,Tamil Nadu,Fashion,Jeans,UPI,30564,24116,18,2,2,Delivered,25062.48,946.48,3.776481817,2024,May,18-25
+1387,16-05-2024,C387,20,Male,Lucknow,Uttar Pradesh,Electronics,Headphones,Debit Card,56590,35186,21,1,4,Delivered,44706.1,9520.1,21.29485685,2024,May,18-25
+1388,04-06-2024,C388,22,Female,Ahmedabad,Gujarat,Fashion,Jeans,COD,54878,43804,20,1,6,Delivered,43902.4,98.4,0.224133533,2024,June,18-25
+1389,19-05-2024,C389,29,Male,Chennai,Tamil Nadu,Home,Decor,COD,1730,1325,22,1,2,Delivered,1349.4,24.4,1.808211057,2024,May,26-35
+1390,17-05-2024,C390,37,Male,Chennai,Tamil Nadu,Electronics,Headphones,Credit Card,49590,43196,16,1,5,Delayed,41655.6,-1540.4,-3.697942173,2024,May,36-45
+1391,11-02-2024,C391,25,Male,Lucknow,Uttar Pradesh,Fashion,Saree,COD,8511,5569,30,3,8,Delivered,5957.7,388.7,6.524329859,2024,February,18-25
+1392,14-06-2024,C392,37,Male,Chennai,Tamil Nadu,Home,Furniture,Debit Card,17429,10970,28,3,5,Returned,12548.88,1578.88,12.58183997,2024,June,36-45
+1393,02-02-2024,C393,41,Male,Mumbai,Maharashtra,Fashion,Kurti,Debit Card,5574,4849,15,2,5,Delivered,4737.9,-111.1,-2.344920745,2024,February,36-45
+1394,26-06-2024,C394,38,Male,Lucknow,Uttar Pradesh,Home,Decor,Credit Card,53933,37478,18,1,2,Delivered,44225.06,6747.06,15.25619185,2024,June,36-45
+1395,13-06-2024,C395,33,Female,Pune,Maharashtra,Electronics,Headphones,Debit Card,49036,34299,20,2,5,Delivered,39228.8,4929.8,12.56678767,2024,June,26-35
+1396,04-05-2024,C396,37,Male,Bangalore,Karnataka,Home,Furniture,UPI,56167,38428,9,3,3,Delivered,51111.97,12683.97,24.81604603,2024,May,36-45
+1397,20-01-2024,C397,48,Male,Jaipur,Rajasthan,Home,Furniture,Debit Card,54257,42025,17,3,3,Delayed,45033.31,3008.31,6.680188509,2024,January,46-60
+1398,19-05-2024,C398,48,Female,Bangalore,Karnataka,Fashion,Jeans,COD,15634,13561,23,3,8,Delivered,12038.18,-1522.82,-12.64991884,2024,May,46-60
+1399,08-05-2024,C399,36,Male,Kolkata,West Bengal,Fashion,Kurti,Credit Card,1694,1353,30,3,7,Delivered,1185.8,-167.2,-14.10018553,2024,May,36-45
+1400,24-04-2024,C400,25,Male,Lucknow,Uttar Pradesh,Home,Kitchen,Credit Card,49229,40348,16,1,3,Delivered,41352.36,1004.36,2.428785201,2024,April,18-25
+1401,17-01-2024,C401,28,Female,Delhi,Delhi,Electronics,Headphones,COD,14551,10991,30,2,5,Delivered,10185.7,-805.3,-7.906182197,2024,January,26-35
+1402,12-01-2024,C402,21,Female,Mumbai,Maharashtra,Home,Decor,COD,55714,45828,23,3,6,Delivered,42899.78,-2928.22,-6.825722649,2024,January,18-25
+1403,03-04-2024,C403,38,Male,Jaipur,Rajasthan,Fashion,Jeans,UPI,15607,11781,16,2,5,Delivered,13109.88,1328.88,10.13647722,2024,April,36-45
+1404,08-05-2024,C404,48,Male,Ahmedabad,Gujarat,Electronics,Laptop,Debit Card,6052,4565,13,1,3,Delivered,5265.24,700.24,13.2992988,2024,May,46-60
+1405,03-06-2024,C405,42,Male,Delhi,Delhi,Fashion,Shoes,Credit Card,48202,30560,26,2,5,Delivered,35669.48,5109.48,14.32451496,2024,June,36-45
+1406,14-06-2024,C406,46,Female,Hyderabad,Telangana,Electronics,Mobile,Credit Card,9381,7242,10,1,7,Delivered,8442.9,1200.9,14.22378567,2024,June,46-60
+1407,15-01-2024,C407,25,Female,Bangalore,Karnataka,Home,Appliances,Debit Card,40279,35879,25,1,7,Delivered,30209.25,-5669.75,-18.76825807,2024,January,18-25
+1408,22-01-2024,C408,26,Female,Lucknow,Uttar Pradesh,Fashion,Jeans,Credit Card,12178,8108,18,3,3,Delivered,9985.96,1877.96,18.80600363,2024,January,26-35
+1409,08-06-2024,C409,41,Female,Bangalore,Karnataka,Home,Decor,UPI,30718,23928,7,1,5,Delivered,28567.74,4639.74,16.24118674,2024,June,36-45
+1410,05-01-2024,C410,26,Female,Bangalore,Karnataka,Home,Furniture,UPI,12627,9378,24,3,2,Delayed,9596.52,218.52,2.27707544,2024,January,26-35
+1411,24-01-2024,C411,35,Male,Lucknow,Uttar Pradesh,Home,Furniture,Debit Card,59783,52687,26,3,5,Delivered,44239.42,-8447.58,-19.09514184,2024,January,26-35
+1412,12-01-2024,C412,42,Female,Delhi,Delhi,Fashion,Jeans,Credit Card,23971,18618,28,3,6,Delivered,17259.12,-1358.88,-7.873402584,2024,January,36-45
+1413,06-03-2024,C413,35,Male,Mumbai,Maharashtra,Fashion,Kurti,UPI,58459,44611,13,1,2,Delivered,50859.33,6248.33,12.28551379,2024,March,26-35
+1414,27-05-2024,C414,36,Male,Jaipur,Rajasthan,Electronics,Camera,Credit Card,43896,29042,30,2,5,Delivered,30727.2,1685.2,5.484391679,2024,May,36-45
+1415,19-04-2024,C415,40,Female,Chennai,Tamil Nadu,Home,Appliances,COD,38006,26972,13,3,5,Delivered,33065.22,6093.22,18.42788283,2024,April,36-45
+1416,21-05-2024,C416,45,Female,Bangalore,Karnataka,Fashion,Kurti,COD,37366,27842,14,3,4,Delivered,32134.76,4292.76,13.35861852,2024,May,36-45
+1417,05-02-2024,C417,47,Male,Delhi,Delhi,Fashion,T-Shirt,UPI,11603,7310,21,2,8,Delivered,9166.37,1856.37,20.25196452,2024,February,46-60
+1418,11-02-2024,C418,32,Male,Mumbai,Maharashtra,Electronics,Camera,UPI,40337,29470,7,2,3,Delivered,37513.41,8043.41,21.44142588,2024,February,26-35
+1419,08-04-2024,C419,49,Female,Lucknow,Uttar Pradesh,Home,Decor,UPI,47635,42350,6,1,7,Delivered,44776.9,2426.9,5.419982178,2024,April,46-60
+1420,21-02-2024,C420,47,Female,Delhi,Delhi,Electronics,Smartwatch,Debit Card,34459,26007,12,3,3,Delivered,30323.92,4316.92,14.23602226,2024,February,46-60
+1421,02-03-2024,C421,40,Male,Bangalore,Karnataka,Electronics,Tablet,UPI,52096,37500,26,2,5,Delivered,38551.04,1051.04,2.726359652,2024,March,36-45
+1422,29-06-2024,C422,22,Male,Jaipur,Rajasthan,Fashion,T-Shirt,Debit Card,55379,42516,23,2,4,Returned,42641.83,125.83,0.295085835,2024,June,18-25
+1423,27-02-2024,C423,39,Male,Ahmedabad,Gujarat,Fashion,Kurti,Debit Card,1304,884,18,3,2,Delivered,1069.28,185.28,17.32754751,2024,February,36-45
+1424,28-03-2024,C424,50,Male,Jaipur,Rajasthan,Fashion,Kurti,COD,54290,45495,13,3,5,Returned,47232.3,1737.3,3.678203263,2024,March,46-60
+1425,03-03-2024,C425,44,Female,Ahmedabad,Gujarat,Home,Appliances,COD,59754,46371,5,2,2,Delivered,56766.3,10395.3,18.31244946,2024,March,36-45
+1426,11-06-2024,C426,45,Male,Delhi,Delhi,Fashion,Jeans,Debit Card,24140,18224,5,3,8,Delivered,22933,4709,20.53372869,2024,June,36-45
+1427,24-01-2024,C427,32,Female,Mumbai,Maharashtra,Home,Kitchen,Credit Card,32231,22373,11,3,4,Delivered,28685.59,6312.59,22.00613618,2024,January,26-35
+1428,07-05-2024,C428,43,Male,Delhi,Delhi,Home,Kitchen,Debit Card,58196,39551,12,1,8,Delivered,51212.48,11661.48,22.77077775,2024,May,36-45
+1429,09-02-2024,C429,44,Male,Mumbai,Maharashtra,Electronics,Headphones,Debit Card,44478,33260,5,3,2,Delayed,42254.1,8994.1,21.28574505,2024,February,36-45
+1430,07-06-2024,C430,30,Female,Lucknow,Uttar Pradesh,Fashion,Jeans,Credit Card,12984,11624,21,2,5,Delivered,10257.36,-1366.64,-13.32350624,2024,June,26-35
+1431,14-01-2024,C431,36,Female,Ahmedabad,Gujarat,Home,Furniture,COD,33930,23893,26,1,5,Returned,25108.2,1215.2,4.839853116,2024,January,36-45
+1432,21-03-2024,C432,42,Male,Hyderabad,Telangana,Home,Kitchen,Credit Card,25866,20028,15,2,6,Delayed,21986.1,1958.1,8.90608157,2024,March,36-45
+1433,20-05-2024,C433,28,Male,Chennai,Tamil Nadu,Fashion,Kurti,Debit Card,23485,16669,20,2,3,Delivered,18788,2119,11.27847562,2024,May,26-35
+1434,03-04-2024,C434,47,Female,Chennai,Tamil Nadu,Fashion,Saree,Debit Card,38447,24580,23,3,3,Delayed,29604.19,5024.19,16.97121252,2024,April,46-60
+1435,01-03-2024,C435,37,Female,Kolkata,West Bengal,Electronics,Laptop,COD,53431,47433,9,2,8,Delivered,48622.21,1189.21,2.445816428,2024,March,36-45
+1436,07-05-2024,C436,24,Female,Ahmedabad,Gujarat,Fashion,Shoes,UPI,37840,32449,6,2,2,Delivered,35569.6,3120.6,8.773222077,2024,May,18-25
+1437,25-02-2024,C437,46,Female,Ahmedabad,Gujarat,Home,Furniture,Debit Card,30481,25097,13,2,4,Delivered,26518.47,1421.47,5.360301707,2024,February,46-60
+1438,29-03-2024,C438,20,Female,Mumbai,Maharashtra,Fashion,T-Shirt,Debit Card,40687,26840,23,3,7,Delivered,31328.99,4488.99,14.32855001,2024,March,18-25
+1439,31-03-2024,C439,30,Female,Ahmedabad,Gujarat,Electronics,Camera,Debit Card,41217,28273,25,1,8,Delivered,30912.75,2639.75,8.539356738,2024,March,26-35
+1440,17-04-2024,C440,40,Female,Mumbai,Maharashtra,Electronics,Laptop,COD,23519,15721,15,3,4,Delivered,19991.15,4270.15,21.36020189,2024,April,36-45
+1441,10-03-2024,C441,48,Female,Pune,Maharashtra,Home,Appliances,Debit Card,28131,18290,5,1,7,Delivered,26724.45,8434.45,31.56079919,2024,March,46-60
+1442,28-06-2024,C442,43,Male,Delhi,Delhi,Electronics,Camera,COD,7750,4872,20,3,2,Delivered,6200,1328,21.41935484,2024,June,36-45
+1443,14-05-2024,C443,44,Male,Mumbai,Maharashtra,Fashion,Kurti,Debit Card,11176,6988,17,2,3,Delivered,9276.08,2288.08,24.66645393,2024,May,36-45
+1444,23-04-2024,C444,40,Male,Bangalore,Karnataka,Home,Kitchen,Debit Card,2872,1753,16,2,8,Delivered,2412.48,659.48,27.33618517,2024,April,36-45
+1445,20-05-2024,C445,34,Male,Jaipur,Rajasthan,Electronics,Smartwatch,Debit Card,40163,29598,28,3,6,Delivered,28917.36,-680.64,-2.353741835,2024,May,26-35
+1446,29-03-2024,C446,35,Male,Mumbai,Maharashtra,Fashion,Shoes,Credit Card,24971,18070,9,2,2,Delivered,22723.61,4653.61,20.47918443,2024,March,26-35
+1447,29-03-2024,C447,29,Female,Jaipur,Rajasthan,Electronics,Headphones,Debit Card,33239,29386,20,2,2,Delivered,26591.2,-2794.8,-10.51024399,2024,March,26-35
+1448,01-06-2024,C448,27,Male,Jaipur,Rajasthan,Fashion,Saree,COD,27983,24195,18,2,3,Delivered,22946.06,-1248.94,-5.442938788,2024,June,26-35
+1449,06-04-2024,C449,27,Female,Mumbai,Maharashtra,Fashion,T-Shirt,Debit Card,16699,12607,30,3,8,Delivered,11689.3,-917.7,-7.850769507,2024,April,26-35
+1450,13-03-2024,C450,40,Female,Kolkata,West Bengal,Electronics,Mobile,Debit Card,12954,8303,8,3,5,Delivered,11917.68,3614.68,30.33039988,2024,March,36-45
+1451,28-06-2024,C451,39,Female,Delhi,Delhi,Fashion,Shirts,Debit Card,10971,6745,22,1,3,Returned,8557.38,1812.38,21.17914595,2024,June,36-45
+1452,09-03-2024,C452,24,Female,Hyderabad,Telangana,Electronics,Mobile,COD,10875,6573,11,2,5,Delivered,9678.75,3105.75,32.08833785,2024,March,18-25
+1453,05-04-2024,C453,34,Male,Pune,Maharashtra,Electronics,Laptop,Credit Card,4672,3176,17,1,6,Delivered,3877.76,701.76,18.09704572,2024,April,26-35
+1454,05-03-2024,C454,46,Female,Hyderabad,Telangana,Electronics,Headphones,Credit Card,17315,12387,19,1,7,Returned,14025.15,1638.15,11.68008898,2024,March,46-60
+1455,27-04-2024,C455,43,Male,Jaipur,Rajasthan,Home,Kitchen,UPI,31987,22926,14,2,3,Delivered,27508.82,4582.82,16.65945686,2024,April,36-45
+1456,20-05-2024,C456,36,Male,Chennai,Tamil Nadu,Fashion,T-Shirt,Credit Card,20583,13576,6,3,3,Returned,19348.02,5772.02,29.83261336,2024,May,36-45
+1457,11-06-2024,C457,33,Female,Hyderabad,Telangana,Electronics,Tablet,COD,39318,25002,30,1,2,Returned,27522.6,2520.6,9.158291731,2024,June,26-35
+1458,25-06-2024,C458,39,Male,Pune,Maharashtra,Electronics,Laptop,UPI,11334,8500,26,3,4,Delayed,8387.16,-112.84,-1.345389858,2024,June,36-45
+1459,16-01-2024,C459,31,Male,Jaipur,Rajasthan,Electronics,Laptop,COD,32971,22084,22,3,8,Delivered,25717.38,3633.38,14.12811103,2024,January,26-35
+1460,19-02-2024,C460,20,Female,Pune,Maharashtra,Home,Kitchen,COD,17429,15156,20,3,5,Delivered,13943.2,-1212.8,-8.698146767,2024,February,18-25
+1461,18-02-2024,C461,38,Male,Jaipur,Rajasthan,Fashion,Shoes,Credit Card,48998,36283,24,3,3,Delivered,37238.48,955.48,2.565840496,2024,February,36-45
+1462,25-04-2024,C462,29,Female,Jaipur,Rajasthan,Fashion,Jeans,UPI,1047,871,21,2,7,Delivered,827.13,-43.87,-5.303882098,2024,April,26-35
+1463,07-06-2024,C463,47,Female,Lucknow,Uttar Pradesh,Electronics,Tablet,COD,48251,29867,22,2,3,Delivered,37635.78,7768.78,20.64200609,2024,June,46-60
+1464,21-05-2024,C464,24,Female,Pune,Maharashtra,Fashion,T-Shirt,Credit Card,22104,13994,21,3,2,Delivered,17462.16,3468.16,19.8610023,2024,May,18-25
+1465,15-02-2024,C465,47,Male,Delhi,Delhi,Electronics,Camera,COD,13557,8535,23,3,8,Delivered,10438.89,1903.89,18.2384334,2024,February,46-60
+1466,14-05-2024,C466,39,Female,Hyderabad,Telangana,Fashion,Saree,UPI,40711,33193,5,1,7,Delivered,38675.45,5482.45,14.17552996,2024,May,36-45
+1467,29-04-2024,C467,45,Male,Pune,Maharashtra,Home,Appliances,UPI,54872,38998,27,1,8,Delivered,40056.56,1058.56,2.642663274,2024,April,36-45
+1468,19-01-2024,C468,46,Female,Mumbai,Maharashtra,Electronics,Smartwatch,Credit Card,7364,4642,12,3,5,Delivered,6480.32,1838.32,28.36773493,2024,January,46-60
+1469,25-05-2024,C469,40,Male,Jaipur,Rajasthan,Home,Appliances,COD,49896,31517,25,3,4,Delivered,37422,5905,15.779488,2024,May,36-45
+1470,27-01-2024,C470,25,Male,Jaipur,Rajasthan,Fashion,Kurti,Debit Card,23119,18431,22,3,5,Delayed,18032.82,-398.18,-2.208085036,2024,January,18-25
+1471,20-05-2024,C471,30,Female,Kolkata,West Bengal,Home,Appliances,COD,55142,45092,24,1,6,Delivered,41907.92,-3184.08,-7.597800129,2024,May,26-35
+1472,20-05-2024,C472,49,Female,Pune,Maharashtra,Fashion,Jeans,Credit Card,27023,16215,6,2,6,Delivered,25401.62,9186.62,36.16548866,2024,May,46-60
+1473,18-03-2024,C473,20,Female,Delhi,Delhi,Electronics,Tablet,Credit Card,2422,2013,27,2,6,Delivered,1768.06,-244.94,-13.85360225,2024,March,18-25
+1474,25-01-2024,C474,21,Female,Pune,Maharashtra,Electronics,Laptop,Debit Card,18366,13042,23,1,3,Delivered,14141.82,1099.82,7.777075369,2024,January,18-25
+1475,24-01-2024,C475,38,Female,Lucknow,Uttar Pradesh,Electronics,Headphones,UPI,6059,4950,30,2,3,Delivered,4241.3,-708.7,-16.70949945,2024,January,36-45
+1476,01-06-2024,C476,40,Female,Hyderabad,Telangana,Home,Appliances,COD,6143,5123,29,2,4,Delayed,4361.53,-761.47,-17.45878167,2024,June,36-45
+1477,16-04-2024,C477,49,Male,Delhi,Delhi,Home,Furniture,Debit Card,42542,35447,17,1,4,Delivered,35309.86,-137.14,-0.388390098,2024,April,46-60
+1478,18-05-2024,C478,38,Male,Pune,Maharashtra,Home,Kitchen,UPI,11039,6790,28,2,5,Delivered,7948.08,1158.08,14.57056295,2024,May,36-45
+1479,26-02-2024,C479,33,Female,Kolkata,West Bengal,Electronics,Laptop,Debit Card,23031,14388,23,3,2,Delivered,17733.87,3345.87,18.86711699,2024,February,26-35
+1480,22-01-2024,C480,32,Female,Bangalore,Karnataka,Electronics,Camera,Credit Card,37654,24830,17,3,6,Delivered,31252.82,6422.82,20.55116946,2024,January,26-35
+1481,03-03-2024,C481,22,Female,Kolkata,West Bengal,Fashion,T-Shirt,Credit Card,38749,24290,26,2,5,Delivered,28674.26,4384.26,15.28988019,2024,March,18-25
+1482,23-03-2024,C482,31,Male,Chennai,Tamil Nadu,Electronics,Tablet,UPI,41384,35030,30,2,6,Delivered,28968.8,-6061.2,-20.92320013,2024,March,26-35
+1483,29-02-2024,C483,26,Female,Bangalore,Karnataka,Home,Furniture,Debit Card,8364,6874,12,3,3,Delayed,7360.32,486.32,6.607321421,2024,February,26-35
+1484,04-01-2024,C484,30,Male,Chennai,Tamil Nadu,Fashion,Jeans,Debit Card,2490,1741,28,3,3,Delivered,1792.8,51.8,2.889335118,2024,January,26-35
+1485,20-05-2024,C485,35,Male,Hyderabad,Telangana,Fashion,Kurti,Debit Card,44484,33720,13,1,2,Delivered,38701.08,4981.08,12.87064857,2024,May,26-35
+1486,14-01-2024,C486,34,Male,Mumbai,Maharashtra,Fashion,T-Shirt,Debit Card,18780,15003,26,2,8,Delivered,13897.2,-1105.8,-7.956998532,2024,January,26-35
+1487,15-06-2024,C487,32,Male,Kolkata,West Bengal,Home,Furniture,COD,21673,16155,24,3,2,Delivered,16471.48,316.48,1.921381685,2024,June,26-35
+1488,23-05-2024,C488,49,Male,Hyderabad,Telangana,Electronics,Smartwatch,Debit Card,20983,14689,17,3,3,Delivered,17415.89,2726.89,15.65748291,2024,May,46-60
+1489,31-03-2024,C489,40,Female,Delhi,Delhi,Home,Decor,Debit Card,54208,33533,13,2,8,Returned,47160.96,13627.96,28.89669761,2024,March,36-45
+1490,27-02-2024,C490,24,Female,Kolkata,West Bengal,Home,Kitchen,Credit Card,6753,5530,21,3,6,Delayed,5334.87,-195.13,-3.657633644,2024,February,18-25
+1491,16-04-2024,C491,27,Male,Kolkata,West Bengal,Fashion,Kurti,Credit Card,22580,16590,9,1,7,Delivered,20547.8,3957.8,19.26142945,2024,April,26-35
+1492,05-02-2024,C492,29,Male,Kolkata,West Bengal,Electronics,Headphones,UPI,38017,33269,15,1,6,Delivered,32314.45,-954.55,-2.953941658,2024,February,26-35
+1493,17-02-2024,C493,30,Male,Hyderabad,Telangana,Fashion,Jeans,Credit Card,27951,19314,28,3,7,Delivered,20124.72,810.72,4.028478409,2024,February,26-35
+1494,28-01-2024,C494,24,Male,Hyderabad,Telangana,Home,Decor,UPI,40688,31334,12,3,3,Delivered,35805.44,4471.44,12.48815822,2024,January,18-25
+1495,01-04-2024,C495,22,Female,Bangalore,Karnataka,Home,Appliances,Credit Card,47662,37885,10,2,5,Delivered,42895.8,5010.8,11.68133011,2024,April,18-25
+1496,19-02-2024,C496,27,Male,Kolkata,West Bengal,Electronics,Tablet,Credit Card,28069,18715,26,1,8,Delivered,20771.06,2056.06,9.898676331,2024,February,26-35
+1497,22-04-2024,C497,47,Female,Pune,Maharashtra,Fashion,Saree,Debit Card,29020,20936,6,3,7,Delayed,27278.8,6342.8,23.25175594,2024,April,46-60
+1498,10-04-2024,C498,39,Male,Jaipur,Rajasthan,Electronics,Camera,UPI,30943,26242,6,1,6,Delivered,29086.42,2844.42,9.779202803,2024,April,36-45
+1499,22-05-2024,C499,32,Male,Delhi,Delhi,Fashion,Jeans,Debit Card,27085,23437,29,2,5,Delivered,19230.35,-4206.65,-21.87505688,2024,May,26-35
+1500,05-06-2024,C500,49,Male,Jaipur,Rajasthan,Electronics,Camera,Credit Card,55387,43967,7,3,6,Delivered,51509.91,7542.91,14.64360936,2024,June,46-60
+1501,10-04-2024,C501,33,Female,Ahmedabad,Gujarat,Electronics,Laptop,Debit Card,30732,23881,27,1,5,Delivered,22434.36,-1446.64,-6.448323019,2024,April,26-35
+1502,26-06-2024,C502,40,Male,Mumbai,Maharashtra,Electronics,Mobile,Credit Card,47283,34744,16,1,6,Delivered,39717.72,4973.72,12.5226725,2024,June,36-45
+1503,06-04-2024,C503,37,Female,Hyderabad,Telangana,Electronics,Tablet,UPI,38060,32784,9,1,8,Delivered,34634.6,1850.6,5.343211702,2024,April,36-45
+1504,17-04-2024,C504,29,Female,Ahmedabad,Gujarat,Fashion,T-Shirt,Debit Card,12842,8158,9,1,2,Delivered,11686.22,3528.22,30.19128512,2024,April,26-35
+1505,04-01-2024,C505,34,Female,Ahmedabad,Gujarat,Home,Furniture,COD,40844,35322,12,1,6,Delivered,35942.72,620.72,1.726970023,2024,January,26-35
+1506,14-04-2024,C506,34,Male,Lucknow,Uttar Pradesh,Home,Furniture,Credit Card,17037,14731,13,3,7,Delivered,14822.19,91.19,0.615226225,2024,April,26-35
+1507,13-01-2024,C507,25,Male,Hyderabad,Telangana,Home,Decor,Debit Card,3406,2192,6,3,6,Delayed,3201.64,1009.64,31.53508827,2024,January,18-25
+1508,25-03-2024,C508,49,Male,Hyderabad,Telangana,Electronics,Camera,Credit Card,12681,8222,14,3,7,Delivered,10905.66,2683.66,24.60795587,2024,March,46-60
+1509,26-04-2024,C509,43,Female,Hyderabad,Telangana,Electronics,Tablet,UPI,22156,15743,17,1,8,Delivered,18389.48,2646.48,14.39127153,2024,April,36-45
+1510,15-03-2024,C510,35,Male,Mumbai,Maharashtra,Home,Decor,UPI,22575,17114,21,1,7,Delivered,17834.25,720.25,4.038577456,2024,March,26-35
+1511,28-01-2024,C511,38,Male,Ahmedabad,Gujarat,Home,Decor,Debit Card,28987,22686,15,2,6,Delivered,24638.95,1952.95,7.926271209,2024,January,36-45
+1512,03-02-2024,C512,39,Female,Jaipur,Rajasthan,Home,Appliances,Credit Card,33276,28031,24,1,7,Delivered,25289.76,-2741.24,-10.83932785,2024,February,36-45
+1513,01-01-2024,C513,23,Male,Ahmedabad,Gujarat,Home,Furniture,Debit Card,49330,42148,30,3,5,Delivered,34531,-7617,-22.05844024,2024,January,18-25
+1514,30-03-2024,C514,37,Male,Hyderabad,Telangana,Home,Kitchen,Debit Card,46220,31637,30,1,4,Delivered,32354,717,2.216109291,2024,March,36-45
+1515,02-01-2024,C515,23,Female,Pune,Maharashtra,Fashion,T-Shirt,Debit Card,38284,30045,5,1,3,Delivered,36369.8,6324.8,17.39025235,2024,January,18-25
+1516,21-06-2024,C516,35,Female,Hyderabad,Telangana,Home,Kitchen,COD,32555,21050,19,3,4,Delivered,26369.55,5319.55,20.17307842,2024,June,26-35
+1517,15-01-2024,C517,46,Female,Lucknow,Uttar Pradesh,Home,Decor,Debit Card,37384,28440,11,3,7,Delivered,33271.76,4831.76,14.52210523,2024,January,46-60
+1518,17-01-2024,C518,24,Female,Hyderabad,Telangana,Fashion,Jeans,UPI,42059,31976,10,3,6,Delivered,37853.1,5877.1,15.52607316,2024,January,18-25
+1519,19-03-2024,C519,42,Female,Hyderabad,Telangana,Fashion,Jeans,Debit Card,6688,5010,12,2,5,Delayed,5885.44,875.44,14.87467377,2024,March,36-45
+1520,25-02-2024,C520,36,Female,Bangalore,Karnataka,Electronics,Tablet,COD,52442,32053,11,1,5,Delivered,46673.38,14620.38,31.32487941,2024,February,36-45
+1521,08-05-2024,C521,24,Male,Pune,Maharashtra,Fashion,T-Shirt,UPI,58270,44115,29,2,3,Delivered,41371.7,-2743.3,-6.630861193,2024,May,18-25
+1522,12-05-2024,C522,41,Male,Delhi,Delhi,Home,Furniture,UPI,31105,22279,21,1,2,Delivered,24572.95,2293.95,9.335264997,2024,May,36-45
+1523,24-06-2024,C523,47,Male,Pune,Maharashtra,Fashion,Shirts,Debit Card,7756,5864,26,3,4,Delivered,5739.44,-124.56,-2.170246575,2024,June,46-60
+1524,12-06-2024,C524,48,Male,Pune,Maharashtra,Electronics,Laptop,Credit Card,19780,13509,15,2,7,Delivered,16813,3304,19.65146018,2024,June,46-60
+1525,10-02-2024,C525,28,Male,Hyderabad,Telangana,Home,Furniture,Debit Card,14538,11088,22,2,4,Delivered,11339.64,251.64,2.219118067,2024,February,26-35
+1526,26-05-2024,C526,27,Male,Mumbai,Maharashtra,Fashion,Kurti,UPI,59474,41728,19,1,3,Delivered,48173.94,6445.94,13.38055388,2024,May,26-35
+1527,28-01-2024,C527,32,Male,Mumbai,Maharashtra,Fashion,Jeans,COD,12729,10328,23,3,8,Delivered,9801.33,-526.67,-5.373454419,2024,January,26-35
+1528,06-06-2024,C528,31,Female,Pune,Maharashtra,Electronics,Headphones,Credit Card,50702,40625,22,1,8,Delivered,39547.56,-1077.44,-2.724415868,2024,June,26-35
+1529,24-01-2024,C529,46,Female,Mumbai,Maharashtra,Fashion,Shoes,Credit Card,45857,36379,29,2,5,Delivered,32558.47,-3820.53,-11.7343659,2024,January,46-60
+1530,06-02-2024,C530,47,Female,Pune,Maharashtra,Fashion,Saree,UPI,46849,41001,15,2,5,Delivered,39821.65,-1179.35,-2.961579945,2024,February,46-60
+1531,01-05-2024,C531,23,Female,Ahmedabad,Gujarat,Fashion,Saree,COD,19498,16190,24,3,3,Delivered,14818.48,-1371.52,-9.255470197,2024,May,18-25
+1532,28-01-2024,C532,30,Male,Chennai,Tamil Nadu,Home,Appliances,COD,27267,21190,12,3,3,Delivered,23994.96,2804.96,11.68978819,2024,January,26-35
+1533,08-04-2024,C533,22,Female,Delhi,Delhi,Home,Appliances,Credit Card,52400,46848,23,2,6,Delivered,40348,-6500,-16.10984435,2024,April,18-25
+1534,18-06-2024,C534,41,Male,Lucknow,Uttar Pradesh,Fashion,Shirts,Credit Card,39808,31003,15,3,2,Delayed,33836.8,2833.8,8.374905428,2024,June,36-45
+1535,19-03-2024,C535,50,Female,Mumbai,Maharashtra,Home,Furniture,UPI,45925,38770,29,2,4,Delivered,32606.75,-6163.25,-18.90176114,2024,March,46-60
+1536,24-01-2024,C536,26,Male,Lucknow,Uttar Pradesh,Home,Furniture,COD,50615,32596,9,2,6,Delivered,46059.65,13463.65,29.2308995,2024,January,26-35
+1537,20-02-2024,C537,26,Female,Chennai,Tamil Nadu,Home,Decor,COD,29490,24044,16,1,6,Delivered,24771.6,727.6,2.937234575,2024,February,26-35
+1538,02-02-2024,C538,47,Female,Hyderabad,Telangana,Fashion,Kurti,UPI,4481,2689,22,2,2,Delayed,3495.18,806.18,23.06547875,2024,February,46-60
+1539,01-03-2024,C539,33,Female,Pune,Maharashtra,Home,Appliances,Credit Card,27609,19725,22,1,7,Delivered,21535.02,1810.02,8.405007286,2024,March,26-35
+1540,18-02-2024,C540,37,Female,Pune,Maharashtra,Fashion,Saree,UPI,19905,17899,26,1,3,Delivered,14729.7,-3169.3,-21.51639205,2024,February,36-45
+1541,06-02-2024,C541,43,Female,Kolkata,West Bengal,Electronics,Mobile,COD,9992,7920,18,2,8,Delivered,8193.44,273.44,3.33730399,2024,February,36-45
+1542,08-06-2024,C542,25,Female,Jaipur,Rajasthan,Fashion,Kurti,UPI,54744,40237,16,1,3,Delivered,45984.96,5747.96,12.49965206,2024,June,18-25
+1543,27-05-2024,C543,35,Male,Jaipur,Rajasthan,Fashion,Jeans,Debit Card,36793,28437,6,1,6,Delivered,34585.42,6148.42,17.77749121,2024,May,26-35
+1544,29-01-2024,C544,38,Female,Mumbai,Maharashtra,Electronics,Headphones,UPI,48926,37082,29,2,5,Delivered,34737.46,-2344.54,-6.749313277,2024,January,36-45
+1545,03-03-2024,C545,35,Male,Jaipur,Rajasthan,Home,Decor,COD,41176,25357,15,3,8,Delivered,34999.6,9642.6,27.55060058,2024,March,26-35
+1546,11-05-2024,C546,48,Female,Lucknow,Uttar Pradesh,Home,Decor,Debit Card,28591,20181,30,2,4,Delivered,20013.7,-167.3,-0.83592739,2024,May,46-60
+1547,24-05-2024,C547,28,Male,Ahmedabad,Gujarat,Home,Kitchen,COD,38542,23722,14,3,6,Delivered,33146.12,9424.12,28.43204574,2024,May,26-35
+1548,22-01-2024,C548,24,Male,Chennai,Tamil Nadu,Fashion,Saree,Credit Card,41356,28299,13,1,7,Delivered,35979.72,7680.72,21.34735901,2024,January,18-25
+1549,31-05-2024,C549,43,Male,Ahmedabad,Gujarat,Fashion,Saree,UPI,18121,15126,12,2,3,Delivered,15946.48,820.48,5.14521073,2024,May,36-45
+1550,28-03-2024,C550,22,Male,Lucknow,Uttar Pradesh,Electronics,Camera,Credit Card,50332,45201,29,2,3,Delivered,35735.72,-9465.28,-26.48688763,2024,March,18-25
+1551,23-02-2024,C551,38,Female,Hyderabad,Telangana,Home,Decor,Debit Card,50511,42725,6,1,5,Delivered,47480.34,4755.34,10.01538742,2024,February,36-45
+1552,01-05-2024,C552,43,Male,Kolkata,West Bengal,Home,Appliances,COD,32102,21790,21,2,2,Delivered,25360.58,3570.58,14.07925213,2024,May,36-45
+1553,07-04-2024,C553,41,Female,Jaipur,Rajasthan,Home,Furniture,Debit Card,7380,6459,25,2,8,Delivered,5535,-924,-16.69376694,2024,April,36-45
+1554,26-03-2024,C554,28,Female,Mumbai,Maharashtra,Fashion,T-Shirt,Credit Card,39284,28180,29,3,7,Delivered,27891.64,-288.36,-1.033858174,2024,March,26-35
+1555,13-05-2024,C555,30,Male,Pune,Maharashtra,Home,Furniture,UPI,45092,27169,7,1,5,Delivered,41935.56,14766.56,35.21250223,2024,May,26-35
+1556,24-06-2024,C556,34,Female,Delhi,Delhi,Home,Decor,Credit Card,17508,11518,5,3,2,Delivered,16632.6,5114.6,30.75045393,2024,June,26-35
+1557,02-06-2024,C557,40,Male,Mumbai,Maharashtra,Electronics,Smartwatch,Credit Card,9513,6780,29,3,6,Delayed,6754.23,-25.77,-0.38153868,2024,June,36-45
+1558,29-01-2024,C558,42,Male,Chennai,Tamil Nadu,Fashion,Jeans,Debit Card,44285,39008,25,2,4,Delivered,33213.75,-5794.25,-17.44533514,2024,January,36-45
+1559,06-03-2024,C559,25,Male,Chennai,Tamil Nadu,Electronics,Camera,COD,26466,18520,6,2,8,Delivered,24878.04,6358.04,25.55683647,2024,March,18-25
+1560,18-01-2024,C560,35,Male,Lucknow,Uttar Pradesh,Fashion,Saree,UPI,43302,32373,9,3,8,Delivered,39404.82,7031.82,17.84507581,2024,January,26-35
+1561,23-04-2024,C561,42,Female,Mumbai,Maharashtra,Electronics,Mobile,Credit Card,5614,4330,13,2,2,Delayed,4884.18,554.18,11.34642867,2024,April,36-45
+1562,16-06-2024,C562,40,Male,Hyderabad,Telangana,Home,Appliances,COD,18461,11916,15,2,6,Delivered,15691.85,3775.85,24.06249104,2024,June,36-45
+1563,02-05-2024,C563,33,Female,Mumbai,Maharashtra,Home,Kitchen,Debit Card,1216,869,27,2,2,Delivered,887.68,18.68,2.104361932,2024,May,26-35
+1564,26-03-2024,C564,41,Female,Kolkata,West Bengal,Electronics,Headphones,Debit Card,43406,27224,22,2,2,Delayed,33856.68,6632.68,19.59046191,2024,March,36-45
+1565,14-06-2024,C565,26,Male,Jaipur,Rajasthan,Electronics,Camera,Debit Card,44301,29119,27,2,2,Delivered,32339.73,3220.73,9.959050369,2024,June,26-35
+1566,04-05-2024,C566,22,Female,Delhi,Delhi,Electronics,Mobile,Debit Card,13654,8296,23,1,5,Delivered,10513.58,2217.58,21.09252985,2024,May,18-25
+1567,07-05-2024,C567,37,Female,Hyderabad,Telangana,Electronics,Tablet,COD,4673,3277,28,1,5,Delivered,3364.56,87.56,2.602420525,2024,May,36-45
+1568,22-06-2024,C568,47,Male,Lucknow,Uttar Pradesh,Electronics,Mobile,UPI,3416,2803,20,3,2,Delivered,2732.8,-70.2,-2.568793911,2024,June,46-60
+1569,03-03-2024,C569,42,Male,Hyderabad,Telangana,Electronics,Headphones,UPI,4274,3724,30,1,5,Delivered,2991.8,-732.2,-24.47356107,2024,March,36-45
+1570,28-01-2024,C570,23,Female,Lucknow,Uttar Pradesh,Home,Kitchen,COD,5135,4320,18,2,8,Delayed,4210.7,-109.3,-2.595767925,2024,January,18-25
+1571,24-03-2024,C571,23,Male,Pune,Maharashtra,Electronics,Mobile,COD,39868,25995,7,1,4,Delivered,37077.24,11082.24,29.88960343,2024,March,18-25
+1572,13-02-2024,C572,42,Female,Jaipur,Rajasthan,Electronics,Camera,COD,16967,14891,6,1,2,Delivered,15948.98,1057.98,6.633527661,2024,February,36-45
+1573,10-02-2024,C573,20,Female,Mumbai,Maharashtra,Electronics,Mobile,COD,12758,11199,27,3,6,Delayed,9313.34,-1885.66,-20.24687169,2024,February,18-25
+1574,26-06-2024,C574,45,Female,Bangalore,Karnataka,Electronics,Laptop,UPI,42931,29248,19,2,3,Delayed,34774.11,5526.11,15.89144913,2024,June,36-45
+1575,01-06-2024,C575,25,Female,Lucknow,Uttar Pradesh,Electronics,Headphones,Credit Card,55164,46049,16,2,2,Delivered,46337.76,288.76,0.623163485,2024,June,18-25
+1576,31-01-2024,C576,36,Male,Lucknow,Uttar Pradesh,Fashion,Kurti,UPI,34262,22811,29,3,7,Delivered,24326.02,1515.02,6.227981396,2024,January,36-45
+1577,19-02-2024,C577,23,Male,Ahmedabad,Gujarat,Fashion,Saree,Credit Card,11470,9187,6,1,7,Delivered,10781.8,1594.8,14.79159324,2024,February,18-25
+1578,21-04-2024,C578,28,Female,Lucknow,Uttar Pradesh,Fashion,Shirts,COD,7843,6447,22,1,3,Delivered,6117.54,-329.46,-5.385498092,2024,April,26-35
+1579,11-05-2024,C579,23,Male,Delhi,Delhi,Home,Appliances,Debit Card,39843,30835,18,1,7,Delivered,32671.26,1836.26,5.620413783,2024,May,18-25
+1580,28-02-2024,C580,44,Male,Pune,Maharashtra,Electronics,Mobile,COD,16539,13583,11,2,3,Delivered,14719.71,1136.71,7.722366813,2024,February,36-45
+1581,14-01-2024,C581,48,Female,Bangalore,Karnataka,Electronics,Smartwatch,Debit Card,30818,20137,16,1,5,Delivered,25887.12,5750.12,22.21228163,2024,January,46-60
+1582,10-03-2024,C582,26,Female,Bangalore,Karnataka,Electronics,Headphones,COD,38268,23645,9,1,8,Delivered,34823.88,11178.88,32.10119033,2024,March,26-35
+1583,13-02-2024,C583,44,Female,Delhi,Delhi,Fashion,Kurti,Credit Card,11275,9435,25,3,3,Delivered,8456.25,-978.75,-11.57427938,2024,February,36-45
+1584,23-01-2024,C584,33,Female,Delhi,Delhi,Home,Appliances,Credit Card,55852,41265,5,3,5,Delivered,53059.4,11794.4,22.22867202,2024,January,26-35
+1585,04-03-2024,C585,30,Female,Lucknow,Uttar Pradesh,Electronics,Smartwatch,COD,10762,9407,5,2,2,Delivered,10223.9,816.9,7.990101625,2024,March,26-35
+1586,09-05-2024,C586,21,Female,Jaipur,Rajasthan,Fashion,Jeans,UPI,54065,45382,8,2,5,Delivered,49739.8,4357.8,8.76119325,2024,May,18-25
+1587,26-06-2024,C587,43,Female,Delhi,Delhi,Electronics,Tablet,Credit Card,20384,13692,7,1,5,Delivered,18957.12,5265.12,27.77383906,2024,June,36-45
+1588,29-06-2024,C588,34,Male,Ahmedabad,Gujarat,Fashion,Saree,UPI,58291,47270,10,2,7,Delivered,52461.9,5191.9,9.896515376,2024,June,26-35
+1589,09-06-2024,C589,22,Female,Pune,Maharashtra,Home,Furniture,Credit Card,20437,14873,13,3,6,Delivered,17780.19,2907.19,16.35072516,2024,June,18-25
+1590,24-06-2024,C590,22,Female,Hyderabad,Telangana,Home,Decor,Debit Card,59194,36432,17,2,5,Delivered,49131.02,12699.02,25.84725495,2024,June,18-25
+1591,03-04-2024,C591,25,Male,Jaipur,Rajasthan,Home,Kitchen,Credit Card,10070,9006,12,3,2,Delivered,8861.6,-144.4,-1.629502573,2024,April,18-25
+1592,27-02-2024,C592,30,Female,Chennai,Tamil Nadu,Home,Appliances,UPI,19162,11810,16,2,5,Delivered,16096.08,4286.08,26.62809827,2024,February,26-35
+1593,30-04-2024,C593,42,Female,Ahmedabad,Gujarat,Home,Decor,COD,53422,42844,27,1,3,Delayed,38998.06,-3845.94,-9.86187518,2024,April,36-45
+1594,23-01-2024,C594,22,Female,Bangalore,Karnataka,Fashion,Shirts,Credit Card,8167,5303,8,3,3,Delivered,7513.64,2210.64,29.42169175,2024,January,18-25
+1595,13-05-2024,C595,50,Male,Chennai,Tamil Nadu,Fashion,T-Shirt,UPI,36483,32087,20,2,5,Delivered,29186.4,-2900.6,-9.93819039,2024,May,46-60
+1596,15-03-2024,C596,26,Male,Hyderabad,Telangana,Electronics,Smartwatch,Debit Card,43249,30307,23,2,7,Delivered,33301.73,2994.73,8.992715994,2024,March,26-35
+1597,04-05-2024,C597,38,Female,Ahmedabad,Gujarat,Fashion,Kurti,COD,9647,8387,14,1,8,Delivered,8296.42,-90.58,-1.091796221,2024,May,36-45
+1598,05-04-2024,C598,29,Male,Bangalore,Karnataka,Fashion,Shoes,Credit Card,30879,27385,24,1,7,Delivered,23468.04,-3916.96,-16.69061413,2024,April,26-35
+1599,14-02-2024,C599,46,Male,Bangalore,Karnataka,Electronics,Mobile,Credit Card,3696,3319,23,1,5,Delivered,2845.92,-473.08,-16.62309552,2024,February,46-60
+1600,22-02-2024,C600,37,Male,Pune,Maharashtra,Fashion,Saree,UPI,25439,18685,10,3,4,Delivered,22895.1,4210.1,18.38865085,2024,February,36-45
